@@ -22,6 +22,7 @@ git push
 
 
 http://geschwindlab.pbworks.com/w/page/106728858/dhglab%20on%20GitHub
+
 (4) Push your changes to the GitHub repository
  
           git add -A
