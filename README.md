@@ -9,6 +9,7 @@ program repository for ASE project
 
 # pull - sync with your GitHub repository
 git pull
+
 @ git pull origin master
 
 # add file
@@ -19,7 +20,9 @@ git rm test
 
 # push
 git commit -m "remove test"
+
 git push
+
 @ git push origin master
 
 
