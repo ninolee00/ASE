@@ -1,4 +1,3 @@
-[ninolee0@n2195 Sample_UMB4334_ba41-42-22_1st_clip_tophat2_masked_3rd_output-done]$ cat /u/project/eeskin/geschwind/ninolee0/bin/program/uniq_chr_correct_50M4sam_v1.py
 #!/usr/bin/python
 
 ##  add chr before chromosome number if there is no chr (not 1 but chr1).
