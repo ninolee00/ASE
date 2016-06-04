@@ -7,18 +7,20 @@ program repository for ASE project
 ### github commends ####
 #########################
 
+# pull - sync with your GitHub repository
 git pull
-# git pull origin master # sync with your GitHub repository
+@ git pull origin master
 
+# add file
 git add test
-git commit -m "add test"
-git push
 
+# remove file
 git rm test
+
+# push
 git commit -m "remove test"
 git push
-
-# git push origin master
+@ git push origin master
 
 
 http://geschwindlab.pbworks.com/w/page/106728858/dhglab%20on%20GitHub
