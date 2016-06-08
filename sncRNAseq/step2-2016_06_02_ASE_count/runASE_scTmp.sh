@@ -55,8 +55,8 @@ date
 samtools view -h $TMPDIR/${ROOT}_uniq_chr_M.sorted.bam > $TMPDIR/${ROOT}_uniq_chr_M.sorted.sam  # not nessarary for ref_bias check
 rm $TMPDIR/${ROOT}_uniq_chr_M.sorted.bam
 
-echo "### ase_M_fast.py : allele count for seq read length (<= 10000bp) ###"
-date
+echo "### ase_M_fast_v1.py : allele count for seq read length (<= 10000bp) ###"
+date  # ase_M_fast.py causes very rare error (happened one out of 247 runs, fixed and made new program: ase_M_fast_v1.py)
 echo
 
 ## ase for 50mer read
@@ -64,15 +64,18 @@ echo
 
 ## for  all (<= 10000bp) reads
 # - ase for all list: all_sam_order.list.gz
-ase_M_fast.py /u/project/eeskin/geschwind/ninolee0/allele/all_snp_list/all_sam_order.list.gz $TMPDIR/${ROOT}_uniq_chr_M.sorted.sam > $TMPDIR/${ROOT}.ase  # only for regular ase calculation  # work for seq read length (<= 10000bp)
+#ase_M_fast.py /u/project/eeskin/geschwind/ninolee0/allele/all_snp_list/all_sam_order.list.gz $TMPDIR/${ROOT}_uniq_chr_M.sorted.sam > $TMPDIR/${ROOT}.ase  # only for regular ase calculation  # work for seq read length (<= 10000bp)
+ase_M_fast_v1.py /u/project/eeskin/geschwind/ninolee0/allele/all_snp_list/all_sam_order.list.gz ${ROOT}_uniq_chr_M.sorted.sam > ${ROOT}.ase  # only for regular ase calculation  # work for seq read length (<= 10000bp) # fixed error of ase_M_fast.py
 
 # - ase for no ref biased all list: all_no_bias_sam_order.list.gz
-ase_M_fast.py /u/project/eeskin/geschwind/ninolee0/allele/all_snp_list/masked_reference/ref_bias/ref_bias_final_result/all_no_bias_sam_order.list.gz $TMPDIR/${ROOT}_uniq_chr_M.sorted.sam > $TMPDIR/${ROOT}_no_bias.ase  # only for regular ase calculation  # work for seq read length (<= 10000bp)
+#ase_M_fast.py /u/project/eeskin/geschwind/ninolee0/allele/all_snp_list/masked_reference/ref_bias/ref_bias_final_result/all_no_bias_sam_order.list.gz $TMPDIR/${ROOT}_uniq_chr_M.sorted.sam > $TMPDIR/${ROOT}_no_bias.ase  # only for regular ase calculation  # work for seq read length (<= 10000bp)
+ase_M_fast_v1.py /u/project/eeskin/geschwind/ninolee0/allele/all_snp_list/masked_reference/ref_bias/ref_bias_final_result/all_no_bias_sam_order.list.gz ${ROOT}_uniq_chr_M.sorted.sam > ${ROOT}_no_bias.ase  # only for regular ase calculation  # work for seq read length (<= 10000bp) # fixed error of ase_M_fast.py
 
 # all list file: /u/project/eeskin/geschwind/ninolee0/allele/all_snp_list/all_sam_order.list.gz
 # no ref bias all list file: /u/project/eeskin/geschwind/ninolee0/allele/all_snp_list/masked_reference/ref_bias/ref_bias_final_result/all_no_bias_sam_order.list.gz, (soft link: /u/project/eeskin/geschwind/ninolee0/allele/all_snp_list/all_no_bias_sam_order.list.gz)
 
 rm $TMPDIR/${ROOT}_uniq_chr_M.sorted.sam
+
 
 
 echo "### ase_one_line.py ###"
