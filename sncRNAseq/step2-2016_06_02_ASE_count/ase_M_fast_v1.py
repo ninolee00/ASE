@@ -150,7 +150,7 @@ for line_list in data_list:
             for i in list:
                 if line_sam != "": # for only case that line_sam reached the end of file --> col_sam = [] and col_sam[9] => error
                     col = i.split()
-                    print col, int(col[3]), col_sam[9]  ####<<< #### to check
+                    # print col, int(col[3]), col_sam[9]  ####<<< #### to check
                     # if int(col[3]) < pos - 49:   # 50bp is 49,  100bp read is 99
                     if int(col[3]) < pos - (len(col_sam[9])-1 + 10000):   ## work for all read length # 10000bp window not to miss short read. work fine read <= 10000bp
                         n += 1
