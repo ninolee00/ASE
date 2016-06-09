@@ -1,0 +1,243 @@
+	Brain.ID	Diagnosis	Age..yrs.	Sex	Ethnicity	Region	Brain.bank	RIN	PMI..hrs.	TotalOrSelectedRNA	Lib_prep_batch	Seizures	Chromosome.15q.duplication	Psychiatric.medications	Medications_notes	Primary.cause.of.death	Secondary.cause.of.death	SexAndSNPanno
+AN00493_ba41_42_22_105	AN00493	ASD	27	M	English-White	BA41/42/22	Harvard-ATP	7.3	8.3	S	16	N	N	N	Synthroid	drowning	respiratory arrest	keep
+AN00764_ba41_42_22_62	AN00764	ASD	20	M	English-White	BA41/42/22	Harvard-ATP	2.5	23.7	S	11	N	N	N	minocin, benzamycin	accident	auto trauma	keep
+AN01093_ba41_42_22_107	AN01093	ASD	56	M	English-White	BA41/42/22	Harvard-ATP	2.4	19.5	S	9	Y	N	Y	Cogentin, Haldol, Lithium, Thorazine, Xanex, Lithonate, Benadryl	anoxic encephalopathy	aspiration	keep
+AN01410_ba41_42_22_68	AN01410	CTL	41	M	-	BA41/42/22	Harvard-ATP	7.4	27.2	S	11	-	N	-	no information	-	-	keep
+AN01570_ba41_42_22_59	AN01570	ASD	18	F	English-White	BA41/42/22	Harvard-ATP	7.1	6.8	S	2	Y	N	N	Multivitamins, taurine, digestive enzymes, cod liver oil	seizure disorder	SUDEP	keep
+AN01971_ba41_42_22_1st	AN01971	ASD	39	M	English-White	BA41/42/22	Harvard-ATP	2.9	31.5	S	14	N	N	N	none noted	aspiration	pneumonitis	keep
+AN02987_ba41_42_22_1st	AN02987	ASD	15	M	-	BA41/42/22	Harvard-ATP	8.6	30.8	S	14	N	N	N	none noted	head trauma	-	keep
+AN03217_ba41_42_22_1st	AN03217	CTL	19	M	English-White	BA41/42/22	Harvard-ATP	7.1	18.6	S	6	-	N	-	no information	pneumonia	respiratory infection	keep
+AN03217_ba41_42_22_92	AN03217	CTL	19	M	English-White	BA41/42/22	Harvard-ATP	6.3	18.6	S	15	-	N	-	no information	pneumonia	respiratory infection	keep
+AN03632_ba41_42_22_1st	AN03632	ASD	49	F	-	BA41/42/22	Harvard-ATP	8.1	21.1	S	16	N	N	N	none noted	cancer	colorectal spread through abdomen	keep
+AN03935_ba41_42_22_1st	AN03935	ASD	19	M	English-White	BA41/42/22	Harvard-ATP	7.9	28.1	S	4	N	Y	N	none noted	cardiopulmonary arrest	choking on food	keep
+AN04479_ba41_42_22_11	AN04479	CTL	44	M	-	BA41/42/22	Harvard-ATP	6.5	23.3	S	2	-	N	-	no information	-	-	keep
+AN04682_ba41_42_22_1st	AN04682	ASD	15	M	-	BA41/42/22	Harvard-ATP	8.2	23.2	S	4	N	N	N	none noted	asphyxia	hanging	keep
+AN05983_ba41_42_22_1st	AN05983	ASD	24	M	-	BA41/42/22	Harvard-ATP	8.7	36.4	S	15	Y	Y	N	none noted	sudden unexpected death	bronchopneumonia, seizure?	keep
+AN06365_ba41_42_22_1st	AN06365	ASD	10	M	-	BA41/42/22	Harvard-ATP	8	17.7	S	7	Y	Y	N	none noted	epilepsy	-	keep
+AN06420_ba41_42_22_53	AN06420	ASD	39	M	English-White	BA41/42/22	Harvard-ATP	3.1	14	S	7	N	N	N	none noted	cardiac tamponade	dissecting ascending aorta	keep
+AN07176_ba41_42_22_97	AN07176	CTL	21	M	-	BA41/42/22	Harvard-ATP	6.3	29.9	S	10	-	N	-	no information	accident	motor vehicle	keep
+AN07176_ba41_42_22_14	AN07176	CTL	21	M	-	BA41/42/22	Harvard-ATP	7	29.9	S	15	-	N	-	no information	accident	motor vehicle	keep
+AN07444_ba41_42_22_1st	AN07444	CTL	17	M	-	BA41/42/22	Harvard-ATP	8.2	30.8	S	14	-	N	Y	Zoloft	asphyxia	hanging	keep
+AN08043_ba41_42_22_1st	AN08043	ASD	52	F	-	BA41/42/22	Harvard-ATP	7.8	39.2	S	16	N	N	N	none noted	-	-	keep
+AN08161_ba41_42_22_86	AN08161	CTL	36	F	-	BA41/42/22	Harvard-ATP	8.1	23.8	S	13	-	N	-	NA	multisystem failure	-	keep
+AN08166_ba41_42_22_1st	AN08166	ASD	28	M	-	BA41/42/22	Harvard-ATP	6.4	43.3	S	13	Y	N	Y	Geodon, Regretol, Allegra	seizure suspected	-	keep
+AN08677_ba41_42_22_1st	AN08677	CTL	38	M	-	BA41/42/22	Harvard-ATP	8	25.5	S	6	-	N	-	no information	-	-	keep
+AN08792_ba41_42_22_102	AN08792	ASD	30	M	English-White	BA41/42/22	Harvard-ATP	5.1	20.3	S	2	Y	N	Y	Dilantin, depakote, tranxene, cisapride, folic acid, propulsid, priosec, reglan, mysoline, phenobarbital, clorazepate	gastrointestinal bleeding	CP; seizure disorder	keep
+AN09714_ba41_42_22_1st	AN09714	ASD	60	M	Northern European White	BA41/42/22	Harvard-ATP	7.2	26.5	S	15	Y	N	Y	Dilantin, phenobarbital, rantex, carbamazepine, prilosec, docusate	pancreatic cancer	-	keep
+AN10679_ba41_42_22_2nd	AN10679	CTL	41	F	-	BA41/42/22	Harvard-ATP	8.4	14	S	16	-	N	-	NA	-	-	keep
+AN10723_ba41_42_22_1st	AN10723	CTL	60	M	-	BA41/42/22	Harvard-ATP	8.7	24.2	S	16	-	N	-	no information	heart attack	-	keep
+AN10833_ba41_42_22_47	AN10833	CTL	22	M	-	BA41/42/22	Harvard-ATP	1.8	21.5	S	13	-	N	-	no information	-	-	keep
+AN11931_ba41_42_22_1st	AN11931	ASD	39	F	-	BA41/42/22	Harvard-ATP	8.5	32.8	S	10	Y	Y	N	none noted	epilepsy	complications due to pneumonia	keep
+AN11989_ba41_42_22_110	AN11989	ASD	30	M	Northern European White	BA41/42/22	Harvard-ATP	2.9	16.1	S	12	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	keep
+AN11989_ba41_42_22_41	AN11989	ASD	30	M	Northern European White	BA41/42/22	Harvard-ATP	6.9	16.1	S	12	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	keep
+AN12137_ba41_42_22_20	AN12137	CTL	31	M	-	BA41/42/22	Harvard-ATP	6.4	32.9	S	15	-	N	-	no information	asphyxia	-	keep
+AN12457_ba41_42_22_35	AN12457	ASD	29	F	English-White	BA41/42/22	Harvard-ATP	6	17.8	S	16	Y	N	Y	Luvox from 2000-2005 - 5 years of life	seizure disorder	-	keep
+AN13295_ba41_42_22_89	AN13295	CTL	56	M	-	BA41/42/22	Harvard-ATP	6.3	22.1	S	13	-	N	-	no information	-	-	keep
+AN13872_ba41_42_22_50	AN13872	ASD	5	F	Asian	BA41/42/22	Harvard-ATP	6.9	32.7	S	14	N	N	N	none noted	drowning	-	keep
+AN14757_ba41_42_22_38	AN14757	CTL	24	M	-	BA41/42/22	Harvard-ATP	3	21.3	S	9	-	N	-	no information	heart attack	-	keep
+AN14757_ba41_42_22_1st	AN14757	CTL	24	M	-	BA41/42/22	Harvard-ATP	8	21.3	S	15	-	N	-	no information	heart attack	-	keep
+AN14762_ba41_42_22_1st	AN14762	ASD	9	M	-	BA41/42/22	Harvard-ATP	8.6	13.6	S	6	Y	Y	Y	Keppra, L-DOPA, L-carnitine	cardiac arrest	seizures	keep
+AN14829_ba41_42_22_1st	AN14829	ASD	26	F	-	BA41/42/22	Harvard-ATP	6.2	28.7	S	3	Y	Y	Y	Tegretol	asphyxia	seizure suspected; chromosome 15q duplication	keep
+AN16641_ba41_42_22_74	AN16641	ASD	9	M	English-White	BA41/42/22	Harvard-ATP	4.7	27	S	13	Y	N	Y	Tegretol, clonidine, dilantin, lamictal, ritalin, depakote	seizure disorder	-	keep
+AN17138_ba41_42_22_44	AN17138	ASD	16	M	Asian	BA41/42/22	Harvard-ATP	7.2	-	S	9	Y	Y	Y	Topamax, buspirone (for one year), allegra	seizure disorder	-	keep
+AN17425_ba41_42_22_32	AN17425	CTL	16	M	-	BA41/42/22	Harvard-ATP	5.6	26.2	S	11	-	N	-	no information	heart attack	heart disease	keep
+AN17425_ba41_42_22_1st	AN17425	CTL	16	M	-	BA41/42/22	Harvard-ATP	7.9	26.2	S	15	-	N	-	no information	heart attack	heart disease	keep
+AN17777_ba41_42_22_83	AN17777	NCTL	49	F	-	BA41/42/22	Harvard-ATP	6.6	16.3	S	11	N	N	Y	Effexor, Neurontin, risperidol, propanolol, synthroid, metformin, coumadin, prevacid, erythromycin	cardiopulmonary arrest	-	keep
+AN19511_ba41_42_22_113	AN19511	ASD	8	M	English-White	BA41/42/22	Harvard-ATP	8.3	22.2	S	8	Y	N	N	none noted	cancer	sarcoma	keep
+UMB1578_ba41_42_22_1st	UMB1578	CTL	53	M	-	BA41/42/22	NICHD-BTB	8.1	17	S	2	N	N	-	Had hypertension, took pravachol	arteriosclerotic cardiovascular disease	-	keep
+UMB4590_ba41_42_22_2nd	UMB4590	CTL	20	M	English-White	BA41/42/22	NICHD-BTB	8.3	19	S	5	N	N	-	none noted	cardiac arrest	dilated cardiomyopathy; morbid obesity	keep
+UMB4842_ba41_42_22_2nd	UMB4842	CTL	47	M	-	BA41/42/22	NICHD-BTB	8.1	12	S	4	N	N	N	none noted	airway obstruction	-	keep
+UMB4999_ba41_42_22_2nd	UMB4999	ASD	21	M	English-White	BA41/42/22	NICHD-BTB	8.4	14	S	0	N	N	Y	Risperdal, Depakote, Naltrexone	cardiac arrhythmia	-	keep
+UMB5027_ba41_42_22_2nd	UMB5027	ASD	37	M	-	BA41/42/22	NICHD-BTB	8.5	26	S	16	N	N	Y	Risperdal, Luvox, Thorazine	obstruction of bowel due to adhesion	-	keep
+UMB5115_ba41_42_22_2nd	UMB5115	ASD	46	M	English-White	BA41/42/22	NICHD-BTB	8.2	29	S	12	Y	N	Y	Haldol, Dilantin, Monopril, Miacalcin	complications of pseuodmyxoma peritonei	-	keep
+UMB5163_ba41_42_22_1st	UMB5163	CTL	15	M	-	BA41/42/22	NICHD-BTB	8.1	12	S	4	-	N	-	no records	drowning	-	keep
+UMB5168_ba41_42_22_1st	UMB5168	CTL	16	F	-	BA41/42/22	NICHD-BTB	7	-	S	4	-	N	-	no records	cardiac arrhythmia	-	keep
+UMB5242_ba41_42_22_1st	UMB5242	CTL	15	M	-	BA41/42/22	NICHD-BTB	8.1	9	S	14	N	N	-	noted to not have been on any medications	cardiac arrhythmia due to conduction system	-	keep
+UMB5278_ba41_42_22_1st	UMB5278	ASD	16	F	English-White	BA41/42/22	NICHD-BTB	7.8	13	S	10	Y	N	Y	Depakote, Keppra, Vitamin B6, Prozac	drowning	associated with seizure disorder	keep
+UMB5302_ba41_42_22_1st	UMB5302	ASD	16	M	English-White	BA41/42/22	NICHD-BTB	3.7	20	S	6	Y	N	Y	Risperdal, Luvox, Clonidine, Insulin	diabetic ketoacidosis	-	keep
+UMB5303_ba41_42_22_2nd	UMB5303	ASD	67	M	African American/Black	BA41/42/22	NICHD-BTB	8.5	16	S	2	Y	N	Y	Dilantin, Phenobarbital, Tegretol (at time of death), past included Meallaril, Kemadrin, Haldol, Serpasil, Thorazine, Chloral Hydrate, Trilafon, Navane	cardiac arrest	-	keep
+UMB5308_ba41_42_22_1st	UMB5308	ASD	4	M	-	BA41/42/22	NICHD-BTB	8.8	21	S	9	N	N	N	none noted	blunt head injury, hit by a car while walking	-	keep
+UMB5340_ba41_42_22_2nd	UMB5340	ASD	53	M	-	BA41/42/22	NICHD-BTB	8.2	-	S	13	N	N	Y	Benztropine, Sinemet, Cipro (current meds)	unresponsive in bed	Parkinson's disease likely contributed	keep
+UMB5342_ba41_42_22_1st	UMB5342	CTL	23	M	-	BA41/42/22	NICHD-BTB	7.7	14	S	15	N	N	N	No notable medical history	motorcycle accident	-	keep
+AN00142_ba41_42_22_56	AN00142	CTL	44	M	-	BA41/42/22	Harvard-ATP	7	24.6	S	8	-	N	-	no information	-	-	drop
+AN04479_ba41_42_22_95	AN04479	CTL	44	M	-	BA41/42/22	Harvard-ATP	7.6	23.3	S	11	-	N	-	no information	-	-	drop
+AN00493_ba9_104	AN00493	ASD	27	M	English-White	BA9	Harvard-ATP	7.3	8.3	S	12	N	N	N	Synthroid	drowning	respiratory arrest	keep
+AN00544_ba9_16	AN00544	CTL	17	M	-	BA9	Harvard-ATP	7.8	28.9	S	6	-	N	-	no information	-	-	keep
+AN00764_ba9_61	AN00764	ASD	20	M	English-White	BA9	Harvard-ATP	8.5	23.7	S	12	N	N	N	minocin, benzamycin	accident	auto trauma	keep
+AN01125_ba9_22	AN01125	CTL	56	M	-	BA9	Harvard-ATP	7	24.2	S	14	-	N	-	no information	-	-	keep
+AN01410_ba9_67	AN01410	CTL	41	M	-	BA9	Harvard-ATP	7.4	27.2	S	7	-	N	-	no information	-	-	keep
+AN01971_ba9_1st	AN01971	ASD	39	M	English-White	BA9	Harvard-ATP	2.9	31.5	S	18	N	N	N	none noted	aspiration	pneumonitis	keep
+AN03217_ba9_2nd	AN03217	CTL	19	M	English-White	BA9	Harvard-ATP	7.5	18.6	S	1	-	N	-	no information	pneumonia	respiratory infection	keep
+AN03217_ba9_91	AN03217	CTL	19	M	English-White	BA9	Harvard-ATP	7	18.6	S	14	-	N	-	no information	pneumonia	respiratory infection	keep
+AN03345_ba9_79	AN03345	ASD	2	M	English-White	BA9	Harvard-ATP	6.9	4	S	8	N	N	N	none noted	drowning	swimming pool	keep
+AN03632_ba9_2nd	AN03632	ASD	49	F	-	BA9	Harvard-ATP	8	21.1	S	15	N	N	N	none noted	cancer	colorectal spread through abdomen	keep
+AN03935_ba9_2nd	AN03935	ASD	19	M	English-White	BA9	Harvard-ATP	8	28.1	S	14	N	Y	N	none noted	cardiopulmonary arrest	choking on food	keep
+AN04682_ba9_1st	AN04682	ASD	15	M	-	BA9	Harvard-ATP	7.8	23.2	S	16	N	N	N	none noted	asphyxia	hanging	keep
+AN06420_ba9_52	AN06420	ASD	39	M	English-White	BA9	Harvard-ATP	8	14	S	9	N	N	N	none noted	cardiac tamponade	dissecting ascending aorta	keep
+AN07176_ba9_96	AN07176	CTL	21	M	-	BA9	Harvard-ATP	5.2	29.9	S	16	-	N	-	no information	accident	motor vehicle	keep
+AN08043_ba9_1st	AN08043	ASD	52	F	-	BA9	Harvard-ATP	7.7	39.2	S	8	N	N	N	none noted	-	-	keep
+AN08161_ba9_1st	AN08161	CTL	36	F	-	BA9	Harvard-ATP	8.1	23.8	S	16	-	N	-	NA	multisystem failure	-	keep
+AN08166_ba9_85	AN08166	ASD	28	M	-	BA9	Harvard-ATP	6.4	43.3	S	4	Y	N	Y	Geodon, Regretol, Allegra	seizure suspected	-	keep
+AN08792_ba9_101	AN08792	ASD	30	M	English-White	BA9	Harvard-ATP	5.1	20.3	S	5	Y	N	Y	Dilantin, depakote, tranxene, cisapride, folic acid, propulsid, priosec, reglan, mysoline, phenobarbital, clorazepate	gastrointestinal bleeding	CP; seizure disorder	keep
+AN09714_ba9_1st	AN09714	ASD	60	M	Northern European White	BA9	Harvard-ATP	7.6	26.5	S	12	Y	N	Y	Dilantin, phenobarbital, rantex, carbamazepine, prilosec, docusate	pancreatic cancer	-	keep
+AN09730_ba9_118	AN09730	ASD	22	M	English-White	BA9	Harvard-ATP	3.2	25	S	10	Y	N	Y	Abilify, Lamictal, Zonegran, flax seed oil, fish oil, multivitamins	aspiration	seizure	keep
+AN10028_ba9_115	AN10028	CTL	36	M	-	BA9	Harvard-ATP	6.2	21.5	S	14	-	N	-	no information	-	-	keep
+AN10679_ba9_1st	AN10679	CTL	41	F	-	BA9	Harvard-ATP	8.7	14	S	7	-	N	-	NA	-	-	keep
+AN10723_ba9_1st	AN10723	CTL	60	M	-	BA9	Harvard-ATP	8.3	24.2	S	4	-	N	-	no information	heart attack	-	keep
+AN11989_ba9_109	AN11989	ASD	30	M	Northern European White	BA9	Harvard-ATP	8	16.1	S	7	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	keep
+AN12240_ba9_7	AN12240	CTL	51	M	English-White	BA9	Harvard-ATP	7	4.8	S	2	-	N	-	no information	heart attack	-	keep
+AN12457_ba9_34	AN12457	ASD	29	F	English-White	BA9	Harvard-ATP	5.5	17.8	S	16	Y	N	Y	Luvox from 2000-2005 - 5 years of life	seizure disorder	-	keep
+AN13295_ba9_88	AN13295	CTL	56	M	-	BA9	Harvard-ATP	6.3	22.1	S	9	-	N	-	no information	-	-	keep
+AN13872_ba9_49	AN13872	ASD	5	F	Asian	BA9	Harvard-ATP	6.9	32.7	S	9	N	N	N	none noted	drowning	-	keep
+AN14757_ba9_2nd	AN14757	CTL	24	M	-	BA9	Harvard-ATP	8.3	21.3	S	18	-	N	-	no information	heart attack	-	keep
+AN14762_ba9_1st	AN14762	ASD	9	M	-	BA9	Harvard-ATP	8.4	13.6	S	1	Y	Y	Y	Keppra, L-DOPA, L-carnitine	cardiac arrest	seizures	keep
+AN14829_ba9_1st	AN14829	ASD	26	F	-	BA9	Harvard-ATP	5.8	28.7	S	15	Y	Y	Y	Tegretol	asphyxia	seizure suspected; chromosome 15q duplication	keep
+AN15088_ba9_1st	AN15088	CTL	52	F	-	BA9	Harvard-ATP	7.7	17.9	S	1	-	N	-	NA	heart attack	-	keep
+AN15566_ba9_28	AN15566	CTL	32	F	-	BA9	Harvard-ATP	7.5	28.9	S	9	-	N	-	NA	-	-	keep
+AN16115_ba9_70	AN16115	ASD	11	F	Northern European White	BA9	Harvard-ATP	9.1	12.9	S	13	Y	N	Y	Tegretol, Dilantin, Topomax, Klonopin, Lamictal, Dexadrine, Adderall	drowning	seizures	keep
+AN17138_ba9_43	AN17138	ASD	16	M	Asian	BA9	Harvard-ATP	7.2	-	S	14	Y	Y	Y	Topamax, buspirone (for one year), allegra	seizure disorder	-	keep
+AN17254_ba9_98	AN17254	ASD	51	M	English-White	BA9	Harvard-ATP	7.2	22.2	S	1	Y	N	N	none noted	heart attack	-	keep
+AN17425_ba9_1st	AN17425	CTL	16	M	-	BA9	Harvard-ATP	7.7	26.2	S	6	-	N	-	no information	heart attack	heart disease	keep
+AN17425_ba9_31	AN17425	CTL	16	M	-	BA9	Harvard-ATP	5.4	26.2	S	7	-	N	-	no information	heart attack	heart disease	keep
+AN17515_ba9_1st	AN17515	ASD	54	M	English-White	BA9	Harvard-ATP	8.1	28.3	S	9	N	N	N	none noted	cancer	-	keep
+AN17777_ba9_82	AN17777	NCTL	49	F	-	BA9	Harvard-ATP	2.3	16.3	S	14	N	N	Y	Effexor, Neurontin, risperidol, propanolol, synthroid, metformin, coumadin, prevacid, erythromycin	cardiopulmonary arrest	-	keep
+AN19511_ba9_112	AN19511	ASD	8	M	English-White	BA9	Harvard-ATP	7.3	22.2	S	14	Y	N	N	none noted	cancer	sarcoma	keep
+AN19760_ba9_25	AN19760	CTL	28	M	-	BA9	Harvard-ATP	8	23.3	S	8	-	N	-	no information	-	-	keep
+UMB1578_ba9_2nd	UMB1578	CTL	53	M	-	BA9	NICHD-BTB	8.1	17	S	7	N	N	-	Had hypertension, took pravachol	arteriosclerotic cardiovascular disease	-	keep
+UMB4334_ba9_1st	UMB4334	ASD	11	M	Portuguese/Spanish Hispanic	BA9	NICHD-BTB	7.9	27	S	10	Y	N	Y	Keppra, lexapro	acute hemorrhagic tracheobronchitis	-	keep
+UMB4590_ba9_1st	UMB4590	CTL	20	M	English-White	BA9	NICHD-BTB	8.3	19	S	2	N	N	-	none noted	cardiac arrest	dilated cardiomyopathy; morbid obesity	keep
+UMB4842_ba9_2nd	UMB4842	CTL	47	M	-	BA9	NICHD-BTB	7.9	12	S	1	N	N	N	none noted	airway obstruction	-	keep
+UMB4849_ba9_2nd	UMB4849	ASD	7	M	African American/Black	BA9	NICHD-BTB	7.4	20	S	8	N	N	N	none noted	drowning	-	keep
+UMB4999_ba9_2nd	UMB4999	ASD	21	M	English-White	BA9	NICHD-BTB	8.2	14	S	6	N	N	Y	Risperdal, Depakote, Naltrexone	cardiac arrhythmia	-	keep
+UMB5027_ba9_1st	UMB5027	ASD	37	M	-	BA9	NICHD-BTB	7.8	26	S	14	N	N	Y	Risperdal, Luvox, Thorazine	obstruction of bowel due to adhesion	-	keep
+UMB5079_ba9_2nd	UMB5079	CTL	33	M	-	BA9	NICHD-BTB	7.8	16	S	14	-	N	-	no information	drowning	alcohol intoxication	keep
+UMB5115_ba9_2nd	UMB5115	ASD	46	M	English-White	BA9	NICHD-BTB	6.2	29	S	14	Y	N	Y	Haldol, Dilantin, Monopril, Miacalcin	complications of pseuodmyxoma peritonei	-	keep
+UMB5163_ba9_2nd	UMB5163	CTL	15	M	-	BA9	NICHD-BTB	6.7	12	S	16	-	N	-	no records	drowning	-	keep
+UMB5168_ba9_2nd	UMB5168	CTL	16	F	-	BA9	NICHD-BTB	7.3	-	S	16	-	N	-	no records	cardiac arrhythmia	-	keep
+UMB5242_ba9_1st	UMB5242	CTL	15	M	-	BA9	NICHD-BTB	8.4	9	S	12	N	N	-	noted to not have been on any medications	cardiac arrhythmia due to conduction system	-	keep
+UMB5278_ba9_1st	UMB5278	ASD	16	F	English-White	BA9	NICHD-BTB	8.3	13	S	16	Y	N	Y	Depakote, Keppra, Vitamin B6, Prozac	drowning	associated with seizure disorder	keep
+UMB5297_ba9_1st	UMB5297	ASD	33	M	English-White	BA9	NICHD-BTB	5.6	50	S	16	N	N	Y	Fluoxetine, norfluoxetine, seroquel, prozac, depakote, but only as of 3 year prior to death	asphyxia	face down position	keep
+UMB5340_ba9_2nd	UMB5340	ASD	53	M	-	BA9	NICHD-BTB	8.4	-	S	14	N	N	Y	Benztropine, Sinemet, Cipro (current meds)	unresponsive in bed	Parkinson's disease likely contributed	keep
+UMB5342_ba9_2nd	UMB5342	CTL	23	M	-	BA9	NICHD-BTB	7.9	14	S	10	N	N	N	No notable medical history	motorcycle accident	-	keep
+AN01093_ba9_106	AN01093	ASD	56	M	English-White	BA9	Harvard-ATP	3.1	19.5	S	16	Y	N	Y	Cogentin, Haldol, Lithium, Thorazine, Xanex, Lithonate, Benadryl	anoxic encephalopathy	aspiration	drop
+AN04479_ba9_94	AN04479	CTL	44	M	-	BA9	Harvard-ATP	1.8	23.3	S	7	-	N	-	no information	-	-	drop
+AN08873_ba9_76	AN08873	ASD	5	M	English-White	BA9	Harvard-ATP	3.6	25.5	S	13	Y	N	Y	Prozac	drowning	asphyxia	drop
+AN11989_ba9_40	AN11989	ASD	30	M	Northern European White	BA9	Harvard-ATP	6.6	16.1	S	11	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	drop
+UMB5302_ba9_1st	UMB5302	ASD	16	M	English-White	BA9	NICHD-BTB	4.8	20	S	5	Y	N	Y	Risperdal, Luvox, Clonidine, Insulin	diabetic ketoacidosis	-	drop
+UMB5303_ba9_1st	UMB5303	ASD	67	M	African American/Black	BA9	NICHD-BTB	3.6	16	S	16	Y	N	Y	Dilantin, Phenobarbital, Tegretol (at time of death), past included Meallaril, Kemadrin, Haldol, Serpasil, Thorazine, Chloral Hydrate, Trilafon, Navane	cardiac arrest	-	drop
+AN00142_vermis_57	AN00142	CTL	44	M	-	vermis	Harvard-ATP	7.8	24.6	S	16	-	N	-	no information	-	-	keep
+AN00493_vermis_105x	AN00493	ASD	27	M	English-White	vermis	Harvard-ATP	7	8.3	S	1	N	N	N	Synthroid	drowning	respiratory arrest	keep
+AN01093_vermis_108	AN01093	ASD	56	M	English-White	vermis	Harvard-ATP	2.3	19.5	S	10	Y	N	Y	Cogentin, Haldol, Lithium, Thorazine, Xanex, Lithonate, Benadryl	anoxic encephalopathy	aspiration	keep
+AN01125_vermis_24	AN01125	CTL	56	M	-	vermis	Harvard-ATP	5.9	24.2	S	3	-	N	-	no information	-	-	keep
+AN01410_vermis_69	AN01410	CTL	41	M	-	vermis	Harvard-ATP	7.9	27.2	S	11	-	N	-	no information	-	-	keep
+AN01570_vermis_60	AN01570	ASD	18	F	English-White	vermis	Harvard-ATP	5.8	6.8	S	15	Y	N	N	Multivitamins, taurine, digestive enzymes, cod liver oil	seizure disorder	SUDEP	keep
+AN02987_vermis_1st	AN02987	ASD	15	M	-	vermis	Harvard-ATP	8.2	30.8	S	13	N	N	N	none noted	head trauma	-	keep
+AN03217_vermis_93	AN03217	CTL	19	M	English-White	vermis	Harvard-ATP	6.5	18.6	S	16	-	N	-	no information	pneumonia	respiratory infection	keep
+AN03217_vermis_1st	AN03217	CTL	19	M	English-White	vermis	Harvard-ATP	6.2	18.6	S	16	-	N	-	no information	pneumonia	respiratory infection	keep
+AN03632_vermis_1st	AN03632	ASD	49	F	-	vermis	Harvard-ATP	6.7	21.1	S	8	N	N	N	none noted	cancer	colorectal spread through abdomen	keep
+AN03935_vermis_1st	AN03935	ASD	19	M	English-White	vermis	Harvard-ATP	6.2	28.1	S	8	N	Y	N	none noted	cardiopulmonary arrest	choking on food	keep
+AN04682_vermis_2nd	AN04682	ASD	15	M	-	vermis	Harvard-ATP	8	23.2	S	10	N	N	N	none noted	asphyxia	hanging	keep
+AN05983_vermis_1st	AN05983	ASD	24	M	-	vermis	Harvard-ATP	7.9	36.4	S	11	Y	Y	N	none noted	sudden unexpected death	bronchopneumonia, seizure?	keep
+AN06420_vermis_54	AN06420	ASD	39	M	English-White	vermis	Harvard-ATP	6.6	14	S	7	N	N	N	none noted	cardiac tamponade	dissecting ascending aorta	keep
+AN07444_vermis_2nd	AN07444	CTL	17	M	-	vermis	Harvard-ATP	8.3	30.8	S	16	-	N	Y	Zoloft	asphyxia	hanging	keep
+AN08043_vermis_1st	AN08043	ASD	52	F	-	vermis	Harvard-ATP	8.2	39.2	S	15	N	N	N	none noted	-	-	keep
+AN08161_vermis_2nd	AN08161	CTL	36	F	-	vermis	Harvard-ATP	7.6	23.8	S	7	-	N	-	NA	multisystem failure	-	keep
+AN08677_vermis_2nd	AN08677	CTL	38	M	-	vermis	Harvard-ATP	8.3	25.5	S	14	-	N	-	no information	-	-	keep
+AN08792_vermis_103	AN08792	ASD	30	M	English-White	vermis	Harvard-ATP	2	20.3	S	6	Y	N	Y	Dilantin, depakote, tranxene, cisapride, folic acid, propulsid, priosec, reglan, mysoline, phenobarbital, clorazepate	gastrointestinal bleeding	CP; seizure disorder	drop
+AN08873_vermis_78	AN08873	ASD	5	M	English-White	vermis	Harvard-ATP	6.2	25.5	S	14	Y	N	Y	Prozac	drowning	asphyxia	keep
+AN09402_vermis_1st	AN09402	ASD	11	M	English-White	vermis	Harvard-ATP	8	10.5	S	4	Y	Y	Y	Keppra, depakene, phenobarbitol	seizure disorder	chromosome 15q duplication	keep
+AN09714_vermis_1st	AN09714	ASD	60	M	Northern European White	vermis	Harvard-ATP	6.4	26.5	S	11	Y	N	Y	Dilantin, phenobarbital, rantex, carbamazepine, prilosec, docusate	pancreatic cancer	-	keep
+AN09730_vermis_120	AN09730	ASD	22	M	English-White	vermis	Harvard-ATP	6	25	S	8	Y	N	Y	Abilify, Lamictal, Zonegran, flax seed oil, fish oil, multivitamins	aspiration	seizure	keep
+AN10028_vermis_117	AN10028	CTL	36	M	-	vermis	Harvard-ATP	7.8	21.5	S	7	-	N	-	no information	-	-	keep
+AN10679_vermis_2nd	AN10679	CTL	41	F	-	vermis	Harvard-ATP	8.2	14	S	15	-	N	-	NA	-	-	keep
+AN10723_vermis_2nd	AN10723	CTL	60	M	-	vermis	Harvard-ATP	8.2	24.2	S	12	-	N	-	no information	heart attack	-	keep
+AN10833_vermis_48	AN10833	CTL	22	M	-	vermis	Harvard-ATP	8	21.5	S	14	-	N	-	no information	-	-	keep
+AN11989_vermis_42	AN11989	ASD	30	M	Northern European White	vermis	Harvard-ATP	6.7	16.1	S	8	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	keep
+AN11989_vermis_111	AN11989	ASD	30	M	Northern European White	vermis	Harvard-ATP	5.5	16.1	S	12	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	keep
+AN12137_vermis_21	AN12137	CTL	31	M	-	vermis	Harvard-ATP	7.3	32.9	S	16	-	N	-	no information	asphyxia	-	keep
+AN12240_vermis_9	AN12240	CTL	51	M	English-White	vermis	Harvard-ATP	8.1	4.8	S	2	-	N	-	no information	heart attack	-	keep
+AN12457_vermis_36	AN12457	ASD	29	F	English-White	vermis	Harvard-ATP	5.5	17.8	S	11	Y	N	Y	Luvox from 2000-2005 - 5 years of life	seizure disorder	-	keep
+AN13295_vermis_90	AN13295	CTL	56	M	-	vermis	Harvard-ATP	8.3	22.1	S	6	-	N	-	no information	-	-	keep
+AN13872_vermis_51	AN13872	ASD	5	F	Asian	vermis	Harvard-ATP	7.8	32.7	S	1	N	N	N	none noted	drowning	-	keep
+AN14757_vermis_39	AN14757	CTL	24	M	-	vermis	Harvard-ATP	7.3	21.3	S	1	-	N	-	no information	heart attack	-	keep
+AN14757_vermis_2nd	AN14757	CTL	24	M	-	vermis	Harvard-ATP	8.4	21.3	S	11	-	N	-	no information	heart attack	-	keep
+AN14762_vermis_1st	AN14762	ASD	9	M	-	vermis	Harvard-ATP	8.5	13.6	S	3	Y	Y	Y	Keppra, L-DOPA, L-carnitine	cardiac arrest	seizures	keep
+AN14829_vermis_1st	AN14829	ASD	26	F	-	vermis	Harvard-ATP	9.4	28.7	S	10	Y	Y	Y	Tegretol	asphyxia	seizure suspected; chromosome 15q duplication	drop
+AN15566_vermis_30	AN15566	CTL	32	F	-	vermis	Harvard-ATP	7.5	28.9	S	15	-	N	-	NA	-	-	keep
+AN16641_vermis_75	AN16641	ASD	9	M	English-White	vermis	Harvard-ATP	6.3	27	S	5	Y	N	Y	Tegretol, clonidine, dilantin, lamictal, ritalin, depakote	seizure disorder	-	keep
+AN17138_vermis_45	AN17138	ASD	16	M	Asian	vermis	Harvard-ATP	2.5	-	S	9	Y	Y	Y	Topamax, buspirone (for one year), allegra	seizure disorder	-	drop
+AN17254_vermis_100	AN17254	ASD	51	M	English-White	vermis	Harvard-ATP	5.7	22.2	S	14	Y	N	N	none noted	heart attack	-	keep
+AN17425_vermis_1st	AN17425	CTL	16	M	-	vermis	Harvard-ATP	7.1	26.2	S	12	-	N	-	no information	heart attack	heart disease	keep
+AN17425_vermis_33	AN17425	CTL	16	M	-	vermis	Harvard-ATP	6.3	26.2	S	13	-	N	-	no information	heart attack	heart disease	keep
+AN17515_vermis_1st	AN17515	ASD	54	M	English-White	vermis	Harvard-ATP	8.1	28.3	S	16	N	N	N	none noted	cancer	-	keep
+AN17678_vermis_1st	AN17678	ASD	11	M	English-White	vermis	Harvard-ATP	8.4	-	S	12	N	N	N	none noted	sudden unexpected death	autism	keep
+AN17777_vermis_84	AN17777	NCTL	49	F	-	vermis	Harvard-ATP	6.6	16.3	S	1	N	N	Y	Effexor, Neurontin, risperidol, propanolol, synthroid, metformin, coumadin, prevacid, erythromycin	cardiopulmonary arrest	-	keep
+AN19511_vermis_114	AN19511	ASD	8	M	English-White	vermis	Harvard-ATP	7.7	22.2	S	13	Y	N	N	none noted	cancer	sarcoma	keep
+AN19760_vermis_27	AN19760	CTL	28	M	-	vermis	Harvard-ATP	6.8	23.3	S	8	-	N	-	no information	-	-	keep
+UMB1376_vermis_2nd	UMB1376	CTL	37	M	-	vermis	NICHD-BTB	8.3	12	S	5	N	N	-	none noted	arteriosclerotic cardiovascular disease	-	keep
+UMB1578_vermis_1st	UMB1578	CTL	53	M	-	vermis	NICHD-BTB	8	17	S	10	N	N	-	Had hypertension, took pravachol	arteriosclerotic cardiovascular disease	-	keep
+UMB4337_vermis_2nd	UMB4337	CTL	8	M	-	vermis	NICHD-BTB	8.6	16	S	14	N	N	N	none noted	motor vehicle accident	-	keep
+UMB4590_vermis_2nd	UMB4590	CTL	20	M	English-White	vermis	NICHD-BTB	8.5	19	S	13	N	N	-	none noted	cardiac arrest	dilated cardiomyopathy; morbid obesity	keep
+UMB4849_vermis_1st	UMB4849	ASD	7	M	African American/Black	vermis	NICHD-BTB	8.1	20	S	14	N	N	N	none noted	drowning	-	keep
+UMB5027_vermis_2nd	UMB5027	ASD	37	M	-	vermis	NICHD-BTB	8.1	26	S	6	N	N	Y	Risperdal, Luvox, Thorazine	obstruction of bowel due to adhesion	-	keep
+UMB5079_vermis_1st	UMB5079	CTL	33	M	-	vermis	NICHD-BTB	8.3	16	S	1	-	N	-	no information	drowning	alcohol intoxication	keep
+UMB5115_vermis_1st	UMB5115	ASD	46	M	English-White	vermis	NICHD-BTB	8.1	29	S	6	Y	N	Y	Haldol, Dilantin, Monopril, Miacalcin	complications of pseuodmyxoma peritonei	-	keep
+UMB5144_vermis_2nd	UMB5144	ASD	7	M	-	vermis	NICHD-BTB	8.2	3	S	14	N	N	N	none noted	cancer	-	keep
+UMB5163_vermis_2nd	UMB5163	CTL	15	M	-	vermis	NICHD-BTB	6.5	12	S	10	-	N	-	no records	drowning	-	keep
+UMB5168_vermis_2nd	UMB5168	CTL	16	F	-	vermis	NICHD-BTB	7.4	-	S	14	-	N	-	no records	cardiac Arrhythmia	-	keep
+UMB5176_vermis_2nd	UMB5176	ASD	23	M	-	vermis	NICHD-BTB	8.1	18	S	6	N	N	Y	Risperdal	sudural hemorrhage	-	keep
+UMB5242_vermis_2nd	UMB5242	CTL	15	M	-	vermis	NICHD-BTB	8.5	9	S	8	N	N	-	noted to not have been on any medications	cardiac arrhythmia due to conduction system	-	keep
+UMB5278_vermis_1st	UMB5278	ASD	16	F	English-White	vermis	NICHD-BTB	8.2	13	S	15	Y	N	Y	Depakote, Keppra, Vitamin B6, Prozac	drowning	associated with seizure disorder	keep
+UMB5297_vermis_2nd	UMB5297	ASD	33	M	English-White	vermis	NICHD-BTB	6.6	50	S	9	N	N	Y	Fluoxetine, norfluoxetine, seroquel, prozac, depakote, but only as of 3 year prior to death	asphyxia	face down position	keep
+UMB5302_vermis_1st	UMB5302	ASD	16	M	English-White	vermis	NICHD-BTB	2.5	20	S	7	Y	N	Y	Risperdal, Luvox, Clonidine, Insulin	diabetic ketoacidosis	-	drop
+UMB5303_vermis_1st	UMB5303	ASD	67	M	African American/Black	vermis	NICHD-BTB	7.1	16	S	5	Y	N	Y	Dilantin, Phenobarbital, Tegretol (at time of death), past included Meallaril, Kemadrin, Haldol, Serpasil, Thorazine, Chloral Hydrate, Trilafon, Navane	cardiac arrest	-	keep
+UMB5308_vermis_1st	UMB5308	ASD	4	M	-	vermis	NICHD-BTB	8.3	21	S	10	N	N	N	none noted	blunt head injury, hit by a car while walking	-	keep
+UMB5340_vermis_1st	UMB5340	ASD	53	M	-	vermis	NICHD-BTB	8.1	-	S	5	N	N	Y	Benztropine, Sinemet, Cipro (current meds)	unresponsive in bed	Parkinson's disease likely contributed	keep
+UMB5342_vermis_1st	UMB5342	CTL	23	M	-	vermis	NICHD-BTB	7.7	14	S	11	N	N	N	No notable medical history	motorcycle accident	-	keep
+AN11864_ba41_42_22_3rd	AN11864	CTL	57	M	-	BA41/42/22	Harvard-ATP	5.4	22.3	T	17	-	N	-	no information	-	-	keep
+AN15088_ba41_42_22_3rd	AN15088	CTL	52	F	-	BA41/42/22	Harvard-ATP	4.2	17.9	T	17	-	N	-	NA	heart attack	-	keep
+AN17515_ba41_42_22_3rd	AN17515	ASD	54	M	English-White	BA41/42/22	Harvard-ATP	7.5	28.3	T	17	N	N	N	none noted	cancer	-	keep
+UMB1376_ba41_42_22_3rd	UMB1376	CTL	37	M	-	BA41/42/22	NICHD-BTB	5	12	T	17	N	N	-	none noted	arteriosclerotic cardiovascular disease	-	keep
+UMB4337_ba41_42_22_3rd	UMB4337	CTL	8	M	-	BA41/42/22	NICHD-BTB	5.8	16	T	17	N	N	N	none noted	motor vehicle accident	-	keep
+UMB5176_ba41_42_22_3rd	UMB5176	ASD	22	M	-	BA41/42/22	NICHD-BTB	5.3	18	T	17	N	N	Y	Risperdal	sudural hemorrhage	-	keep
+NP024.10_ba41_42_22_3rd	NP024.10	NCTL	62	M	White North European	BA41/42/22	UK BBA	7.1	24	T	17	Y	N	N	variety of anti-epileptic medications throughout life	status epilepticus and myocardial infarct	epilepsy	keep
+NP121.11_ba41_42_22_3rd	NP121.11	ASD	33	M	-	BA41/42/22	UK BBA	7.1	96	T	17	Y	N	Y	prozac/Fluoxetine, Lamotrigine, Rispiridone, Lorazepam	SUDEP	-	keep
+NP167.08_ba41_42_22_3rd	NP167.08	ASD	44	F	-	BA41/42/22	UK BBA	5.6	48	T	17	possibly during childhood	N	Y	psychiatric drug history is somewhat complex and she has been trialledon various doses of haloperidol, propranolol and sertraline at various times from the age of 20. At the time of her death she held prescriptions from her GP for risperidone (2mg once at night and 1mg once in the morning) and diazepam (5mg when required)	cardiac arrest	-	keep
+NP26.11_ba41_42_22_3rd	NP26.11	ASD	22	M	-	BA41/42/22	UK BBA	5.8	48	T	17	Y	N	Y	Levetiracetan, Midazolan, vitamin C	aspiration of gastral material	epilepsy seizure	keep
+NP72.11_ba41_42_22_3rd	NP72.11	ASD	15	M	-	BA41/42/22	UK BBA	6.6	24	T	17	Y	N	-	lamotrigine	seizure	glioblastoma	keep
+NP90.09_ba41_42_22_3rd	NP90.09	ASD	50	M	mixed	BA41/42/22	UK BBA	6.1	72	T	17	N	N	Y	cyproterone acetate, haloperidol (60mg/day), lorazepam (3mg/day), and procyclidine (30mg/day),  sertraline (125 mg/day).  haloperidol replaced by zuclopenthixol (150 mg/day) and loxapine (175 mg/day). his medication was very gradually reduced Õthe loxapine was stopped (when he was  42 years) and by the time he was 49 years old, he was on sertraline (50mg/day), zuclopenthixol (70 mg/day), procyclidine (7.5 mg/day) and nifedipine(30mg/day	pulmonary embolism	meningiomata	keep
+A012.12_ba41_42_22_3rd	A012.12	CTL	51	F	presumed caucasian	BA41/42/22	MRC London Brain Bank	4.1	33	T	17	N	N	-	metoclopramide hydrochloride, nozinan 25mg/ml, nifedipine, omeprozole, digoxin, prednisolone, prochlorperazine	cancer (lung)	-	keep
+A358.08_ba41_42_22_3rd	A358.08	CTL	55	F	presumed caucasian	BA41/42/22	MRC London Brain Bank	3.7	12	T	17	N	N	N	aspirin, carbocysteine 750mg, docazosin 4mg, procyclidine 5mg, gliciazide 160mg	COPD/septiceamia	-	keep
+AN00142_ba9_3rd	AN00142	CTL	44	M	-	BA9	Harvard-ATP	6.2	24.6	T	17	-	N	-	no information	-	-	keep
+AN02987_ba9_3rd	AN02987	ASD	15	M	-	BA9	Harvard-ATP	7.6	30.8	T	17	N	N	N	none noted	head trauma	-	keep
+AN05983_ba9_3rd	AN05983	ASD	24	M	-	BA9	Harvard-ATP	7.8	36.4	T	17	Y	Y	N	none noted	sudden unexpected death	bronchopneumonia, seizure?	keep
+AN07444_ba9_3rd	AN07444	CTL	17	M	-	BA9	Harvard-ATP	3.5	30.8	T	17	-	N	Y	Zoloft	asphyxia	hanging	keep
+AN09402_ba9_3rd	AN09402	ASD	11	M	English-White	BA9	Harvard-ATP	6.7	10.5	T	17	Y	Y	Y	Keppra, depakene, phenobarbitol	seizure disorder	chromosome 15q duplication	keep
+AN11864_ba9_3rd	AN11864	CTL	57	M	-	BA9	Harvard-ATP	7.3	22.3	T	17	-	N	-	no information	-	-	keep
+AN11931_ba9_3rd	AN11931	ASD	39	F	-	BA9	Harvard-ATP	7.9	32.8	T	17	Y	Y	N	none noted	epilepsy	complications due to pneumonia	keep
+AN12137_ba9_3rd	AN12137	CTL	31	M	-	BA9	Harvard-ATP	4.6	32.9	T	17	-	N	-	no information	asphyxia	-	keep
+AN19442_ba9_3rd	AN19442	CTL	50	M	-	BA9	Harvard-ATP	6.9	20.4	T	17	-	N	-	no information	-	-	keep
+UMB1376_ba9_3rd	UMB1376	CTL	37	M	-	BA9	NICHD-BTB	4.8	12	T	17	N	N	-	none noted	arteriosclerotic cardiovascular disease	-	keep
+UMB4337_ba9_3rd	UMB4337	CTL	8	M	-	BA9	NICHD-BTB	5.8	16	T	17	N	N	N	none noted	motor vehicle accident	-	keep
+NP024.10_ba9_3rd	NP024.10	NCTL	62	M	White North European	BA9	UK BBA	6.7	24	T	17	Y	N	N	variety of anti-epileptic medications throughout life	status epilepticus and myocardial infarct	epilepsy	keep
+NP121.11_ba9_3rd	NP121.11	ASD	33	M	-	BA9	UK BBA	7	96	T	17	Y	N	Y	prozac/Fluoxetine, Lamotrigine, Rispiridone, Lorazepam	SUDEP	-	keep
+NP167.08_ba9_3rd	NP167.08	ASD	44	F	-	BA9	UK BBA	5.1	48	T	17	possibly during childhood	N	Y	psychiatric drug history is somewhat complex and she has been trialledon various doses of haloperidol, propranolol and sertraline at various times from the age of 20. At the time of her death she held prescriptions from her GP for risperidone (2mg once at night and 1mg once in the morning) and diazepam (5mg when required)	cardiac arrest	-	keep
+NP26.11_ba9_3rd	NP26.11	ASD	22	M	-	BA9	UK BBA	7.3	48	T	17	Y	N	Y	Levetiracetan, Midazolan, vitamin C	aspiration of gastral material	epilepsy seizure	keep
+NP72.11_ba9_3rd	NP72.11	ASD	15	M	-	BA9	UK BBA	6.6	24	T	17	Y	N	-	lamotrigine	seizure	glioblastoma	keep
+NP90.09_ba9_3rd	NP90.09	ASD	50	M	mixed	BA9	UK BBA	8.1	72	T	17	N	N	Y	cyproterone acetate, haloperidol (60mg/day), lorazepam (3mg/day), and procyclidine (30mg/day),  sertraline (125 mg/day).  haloperidol replaced by zuclopenthixol (150 mg/day) and loxapine (175 mg/day). his medication was very gradually reduced Õthe loxapine was stopped (when he was  42 years) and by the time he was 49 years old, he was on sertraline (50mg/day), zuclopenthixol (70 mg/day), procyclidine (7.5 mg/day) and nifedipine(30mg/day	pulmonary embolus following eye surgery	meningiomata	keep
+A012.12_ba9_3rd	A012.12	CTL	51	F	presumed caucasian	BA9	MRC London Brain Bank	4.8	33	T	17	N	N	-	metoclopramide hydrochloride, nozinan 25mg/ml, nifedipine, omeprozole, digoxin, prednisolone, prochlorperazine	cancer (lung)	-	keep
+A358.08_ba9_3rd	A358.08	CTL	55	F	presumed caucasian	BA9	MRC London Brain Bank	4.5	12	T	17	N	N	N	aspirin, carbocysteine 750mg, docazosin 4mg, procyclidine 5mg, gliciazide 160mg	COPD/septiceamia	-	keep
+AN06133_vermis_3rd	AN06133	ASD	81	M	Southern European White	vermis	Harvard-ATP	7.2	12.7	T	17	-	N	-	NA	cerebrovascular accident	micro vascular disease/heart disease	drop
+AN06875_vermis_3rd	AN06875	ASD	68	M	English-White	vermis	Harvard-ATP	6.9	29	T	17	-	N	-	NA	heart attack	sepsis	drop
+AN11864_vermis_3rd	AN11864	CTL	57	M	-	vermis	Harvard-ATP	7.1	22.3	T	17	-	N	-	no information	-	-	keep
+UMB4842_vermis_3rd	UMB4842	CTL	47	M	-	vermis	NICHD-BTB	4.7	12	T	17	N	N	N	none noted	airway obstruction	-	keep
+NP024.10_vermis_3rd	NP024.10	NCTL	62	M	White North European	vermis	UK BBA	4.2	24	T	17	Y	N	N	variety of anti-epileptic medications throughout life	status epilepticus and myocardial infarct	epilepsy	keep
+NP26.11_vermis_3rd	NP26.11	ASD	22	M	-	vermis	UK BBA	7.1	48	T	17	Y	N	Y	Levetiracetan, Midazolan, vitamin C	aspiration of gastral material	epilepsy seizure	keep
+NP27.11_vermis_3rd	NP27.11	ASD	14	M	-	vermis	UK BBA	6.2	-	T	17	Y	N	Y	methylphenidate , melatonin (for insomnia), atomoxetine (40mg/day) at 9 years old, budesonide inhaler(Asthma)	cardiac arrest due to inhalation of volatile arrythmogenic substances	-	drop
+NP56.10_vermis_3rd	NP56.10	ASD	44	M	White North European	vermis	UK BBA	7.5	72	T	17	-	N	Y	chemotherapy, domperidone (30mg/day), loperamide (12mg/day),  lansoprazole (60mg/day), fluoxetine (60mg/day), diazepam (8mg/day), morphine sulfate (30mg/day), paracetamol (400mg/day), tramadol (50mgas needed), ibuprofen (1200mg/day), metformin (2000mg/day), estradiol 1mg&norethisterone acetate 1mg (1 tablet/day),prednisolone (5mg as needed)	non-hodgkins lymphoma	-	drop
+NP72.11_vermis_3rd	NP72.11	ASD	15	M	-	vermis	UK BBA	6.6	24	T	17	Y	N	-	lamotrigine	seizure	glioblastoma	keep
+NP90.09_vermis_3rd	NP90.09	ASD	50	M	mixed	vermis	UK BBA	6.2	72	T	17	N	N	Y	cyproterone acetate, haloperidol (60mg/day), lorazepam (3mg/day), and procyclidine (30mg/day),  sertraline (125 mg/day).  haloperidol replaced by zuclopenthixol (150 mg/day) and loxapine (175 mg/day). his medication was very gradually reduced Õthe loxapine was stopped (when he was  42 years) and by the time he was 49 years old, he was on sertraline (50mg/day), zuclopenthixol (70 mg/day), procyclidine (7.5 mg/day) and nifedipine(30mg/day	pulmonary embolus following eye surgery	meningiomata	keep
+A206.89_vermis_3rd	A206.89	CTL	22	M	presumed caucasian	vermis	MRC London Brain Bank	7.5	45	T	17	-	N	-		sudden accident/abdominal trauma	-	drop
+A246.93_vermis_3rd	A246.93	CTL	41	M	presumed caucasian	vermis	MRC London Brain Bank	6.2	32	T	17	-	N	-	no information	acute pancreatitis	-	drop
+A247.92_vermis_3rd	A247.92	CTL	40	M	presumed caucasian	vermis	MRC London Brain Bank	7.5	14	T	17	-	N	-		lung cancer	-	drop
+A268.93_vermis_3rd	A268.93	CTL	37	M	presumed caucasian	vermis	MRC London Brain Bank	2.6	27	T	17	N	N	-	no information	acute necrotic pancreatitis	-	drop
