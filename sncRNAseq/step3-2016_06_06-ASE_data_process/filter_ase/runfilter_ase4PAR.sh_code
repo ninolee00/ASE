@@ -1,0 +1,13 @@
+#################################
+### runfilter_ase4PAR.sh_code ###
+#################################
+
+cd /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary/filter_split/
+
+for line in header_part_*; do
+#line=test.ase
+echo $line
+qsub -cwd -o /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary/filter_split/${line}.log -e /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary/filter_split/${line}.log -l h_data=4096M,h_rt=24:00:00 /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary/filter_split/runfilter_ase4PAR.sh ${line} 20 80
+
+done
+
