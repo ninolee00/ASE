@@ -1,0 +1,243 @@
+### data process note ###
+
+##################################################
+##################################################
+### 1) combine all allele count (ase) data ###
+##################################################
+
+cd /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary
+gunzip ../Sample_*/*_no_bias.ase_one_line.gz
+
+# list file prep before pasting
+cp /u/project/eeskin/geschwind/ninolee0/allele/all_snp_list/masked_reference/ref_bias/ref_bias_final_result/all_no_bias_sam_order.list.gz .
+gunzip all_no_bias_sam_order.list.gz
+sed -i '1i @chr\tloc\tallele1\tallele2\tsnp_id' all_no_bias_sam_order.list  # add header (same header for ttest run)
+
+# paste list and allele count data
+paste all_no_bias_sam_order.list ../Sample_*/*_no_bias.ase_one_line > all_no_bias_sam_order4sncRNAseq.ase
+
+rm all_no_bias_sam_order.list
+gzip ../Sample_*/*_no_bias.ase_one_line &
+
+##################################################
+##################################################
+
+
+
+##################################################
+##################################################
+### 2) mapping stat file prep (masked_3rd, hg19) ###
+##################################################
+##################################################
+
+# @ metData
+
+root=/u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping
+cd ${root}/
+mkdir data_summary
+cd ${root}/data_summary
+
+### row name: mapped_read_num.col
+echo "Sample_directory" > Sample_directory_name.col
+cat ../Sample_*/*_clip_tophat2_masked_3rd.log | grep ^"/u/scratch/n/ninolee0/sncRNAseq/clip_fastq/," |cut -f2 -d " "| sed 's/_clip//g' >> Sample_directory_name.col  # line info: /u/scratch/n/ninolee0/sncRNAseq/clip_fastq/, Sample_UMB5342_vermis_1st_clip
+
+
+## clip_fastq
+echo "clip_fastq" > clip_fastq.col
+cat ../Sample_*/*_clip_tophat2_masked_3rd.log | grep -A1 "## read input number: _clip.fastq ##"$ |grep -v ^# | grep -v ^-- >> clip_fastq.col
+
+## all_mapped_read
+echo "all_mapped_read" > all_mapped_read.col
+cat ../Sample_*/*_clip_tophat2_masked_3rd.log | grep -A1 "## all mapped read: accepted_hits_sorted.bam ##"$ |grep -v ^# | grep -v ^--   >> all_mapped_read.col
+
+## uniquely_mapped_read
+echo "uniquely_mapped_read" > uniq_mapped_read.col
+cat ../Sample_*/*_clip_tophat2_masked_3rd.log | grep -A1 "## uniquely mapped read: accepted_hits_sorted_uniq.bam ##"$ |grep -v ^# | grep -v ^--  >> uniq_mapped_read.col
+
+cut -f1-5 sncRANseq_exp_hg19/metaData_mine.txt | sed 's/ba41_42_22/ba41-42-22/g' > metaData_mine.txt_col1-5  ## Sample_directory, Sample, Brain.ID, Region, fastq
+# metaData_mine.txt: mapping stat from the previous sncRNAseq expression study (hg19) 
+
+paste metaData_mine.txt_col1-5 clip_fastq.col all_mapped_read.col uniq_mapped_read.col > mapping_stat4tophat_masked3rd.txt
+
+### final output: mapping_stat4tophat_masked3rd.txt
+[ninolee0@n2174 data_summary]$ head mapping_stat4tophat_masked3rd.txt
+Sample_directory        Sample  Brain.ID        Region  fastq   clip_fastq      all_mapped_read uniquely_mapped_read
+Sample_A012_12-BA41-42-22_A012_12_ba41-42-22_3rd        A012_12_ba41_42_22_3rd  A012_12 ba41/42/22      4994715 4448218 9000007 1800641
+Sample_A012_12-BA9_A012_12_ba9_3rd      A012_12_ba9_3rd A012_12 ba9     4250364 3956404 8647216 1349021
+Sample_A206_89-CB_A206_89_vermis_3rd    A206_89_vermis_3rd      A206_89 vermis  4238134 3762482 7492008 1357969
+Sample_A246_93-CB_A246_93_vermis_3rd    A246_93_vermis_3rd      A246_93 vermis  4661881 4325902 7659652 2027921
+
+# metaData_mine.txt
+[ninolee0@n2174 data_summary]$ head metaData_mine.txt
+Sample_directory        Sample  Brain.ID        Region  fastq   clip_fastq      unmapped_read   uniquely_mapped_read
+Sample_A012_12-BA41-42-22_A012_12_ba41-42-22_3rd        A012_12_ba41_42_22_3rd  A012_12 ba41/42/22      4994715 4448218 196395  280132
+Sample_A012_12-BA9_A012_12_ba9_3rd      A012_12_ba9_3rd A012_12 ba9     4250364 3956404 227606  362785
+Sample_A206_89-CB_A206_89_vermis_3rd    A206_89_vermis_3rd      A206_89 vermis  4238134 3762482 311922  580496
+Sample_A246_93-CB_A246_93_vermis_3rd    A246_93_vermis_3rd      A246_93 vermis  4661881 4325902 190075  491612
+
+## gether meta data info from Emily's metaData: meta_242samples_201603.txt ###
+select_metData_v1.py mapping_stat4tophat_masked3rd.txt sncRANseq_exp_hg19/from_emily/meta_242samples_201603.txt > metaData4tophat_masked3rd_final.txt
+# --> final metaData: metaData_mine4tophat_masked3rd_final.txt @ /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary
+##################################################
+
+# --> there are 30 unmatch sample info.
+A012_12_ba41_42_22_3rd
+A012_12_ba9_3rd
+A206_89_vermis_3rd
+A246_93_vermis_3rd
+A247_92_vermis_3rd
+A268_93_vermis_3rd
+A358_08_ba41_42_22_3rd
+A358_08_ba9_3rd
+AN08161_ba41_42_22_1st
+AN08166_ba41_42_22_86
+NP024_10_ba41_42_22_3rd
+NP024_10_ba9_3rd
+NP024_10_vermis_3rd
+NP121_11_ba41_42_22_3rd
+NP121_11_ba9_3rd
+NP167_08_ba41_42_22_3rd
+NP167_08_ba9_3rd
+NP26_11_ba41_42_22_3rd
+NP26_11_ba9_3rd
+NP26_11_vermis_3rd
+NP27_11_vermis_3rd
+NP56_10_vermis_3rd
+NP72_11_ba41_42_22_3rd
+NP72_11_ba9_3rd
+NP72_11_vermis_3rd
+NP90_09_ba41_42_22_3rd
+NP90_09_ba9_3rd
+NP90_09_vermis_3rd
+UMB4334_ba41_42_22_1st
+UMB433_ba41_42_22_3rd
+
+##################################################
+
+
+
+##################################################
+##################################################
+### 4) header update for allele count (ase) data ###  
+##################################################
+
+# add sex info to run filter_ase4PAR.py 
+# -> it needs sex for PAR at chrX
+
+
+#1 ##### new header prep for ase data for filter and ttest ... #####
+# @ header4final_ase/
+
+## after opening metaData4tophat_masked3rd_final.txt with excel, paste data at new excel
+## copy to paste the contents into unix --> make header_col.txt
+
+row2column.py  header_col.txt > header_line.txt
+
+
+
+#2 ####### replace header ###
+
+# @ ./
+cat header4final_ase/header_line.txt > all_no_bias_sam_order4sncRNAseq_header.ase
+awk 'NR>=2' all_no_bias_sam_order4sncRNAseq.ase >> all_no_bias_sam_order4sncRNAseq_header.ase
+gzip all_no_bias_sam_order4sncRNAseq.ase &
+
+
+
+##################################################
+##################################################
+### 3) filer allele count (ase) data ###
+##################################################
+# @ filter_ase/
+
+############################
+### runfilter_ase4PAR.sh ###
+############################
+
+#!/bin/bash
+
+# run filter_ase4PAR.py
+
+PATH=$PATH:/u/project/eeskin/geschwind/ninolee0/bin  ### samtools location
+export PATH
+PATH=$PATH:/u/project/eeskin/geschwind/ninolee0/bin/program/  ### homemade program location
+export PATH
+
+ROOT=$1  # ase file name, header_part_aa: product of " split -1000000 all_no_bias_sam_order4sncRNAseq_header.ase header_part_ "
+present=$2
+good=$3
+
+
+echo
+echo "###############################"
+echo "#### run filter_ase4PAR.py ####"
+echo "###############################"
+echo
+echo ${ROOT} ${present} ${good}
+date
+echo
+
+filter_ase4PAR.py ${ROOT} ${present} ${good} > ${ROOT}_${present}_${good}_check
+
+echo
+echo "#####################################"
+echo "### filter_ase4PAR.py process end ###"
+echo "#####################################"
+date
+echo
+
+
+#################################
+### runfilter_ase4PAR.sh_code ###
+#################################
+
+cd /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data      _summary/filter_split/
+
+for line in header_part_*; do
+echo $line
+qsub -cwd -o /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary/filter_split/${line}.log -e /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary/filter_split/${line}.log -l h_data=4096M,h_rt=24:00:00 /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary/filter_ase/runfilter_ase4PAR.sh ${line} 20 80
+
+done
+#######################################################
+
+## single run
+cd /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary
+line=all_no_bias_sam_order4sncRNAseq_header.ase
+echo $line
+qsub -cwd -o /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary/${line}.log -e /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary/${line}.log -l h_data=4096M,h_rt=24:00:00 /u/scratch/n/ninolee0/sncRNAseq/tophat2_masked_3rd_mapping/data_summary/filter_ase/runfilter_ase4PAR.sh ${line} 20 80
+
+
+
+#######################################################
+#######################################################
+### 4) select filtered data based on present and good ####
+#######################################################
+#######################################################
+# @ filter_ase/
+
+mv all_no_bias_sam_order4sncRNAseq_header.ase_20_80_check filter_ase
+cd filter_ase
+
+### all data
+## for 20_80 without chrMT, chrY
+awk '{if($258 !="fail") print}' all_no_bias_sam_order4sncRNAseq_header.ase_20_80_check | cut -f1-252 > all_no_bias_sam_order4sncRNAseq_header.ase_20_80  & ## for 20_80
+
+# for 00_80 without chrMT, chrY
+awk '{if($253>0 && $254>= 80) print }' all_no_bias_sam_order4sncRNAseq_header.ase_20_80_check | cut -f1-252 > all_no_bias_sam_order4sncRNAseq_header.ase_more00_80  & # at least one >=10
+
+awk '{if($257 != "0,0,0,0" && $254>= 80) print }' all_no_bias_sam_order4sncRNAseq_header.ase_20_80_check | cut -f1-252 > all_no_bias_sam_order4sncRNAseq_header.ase_00_80  & # at least one allele count
+
+
+#### autosome_chrX data selection
+## for 20_80 without chrMT, chrY
+awk '{if($1 != "chrMT" && $1 != "chrY" && $258 !="fail") print}' all_no_bias_sam_order4sncRNAseq_header.ase_20_80_check | cut -f1-252 > all_no_bias_sam_order4sncRNAseq_header_autosome_chrX.ase_20_80  & ## for 20_80
+
+# for 00_80 without chrMT, chrY
+awk '{if($1 != "chrMT" && $1 != "chrY" && $253>0 && $254>= 80) print }' all_no_bias_sam_order4sncRNAseq_header.ase_20_80_check | cut -f1-252 > all_no_bias_sam_order4sncRNAseq_header_autosome_chrX.ase_more00_80  & # at least one >=10
+
+awk '{if($1 != "chrMT" && $1 != "chrY" && $257 != "0,0,0,0" && $254>= 80) print }' all_no_bias_sam_order4sncRNAseq_header.ase_20_80_check | cut -f1-252 > all_no_bias_sam_order4sncRNAseq_header_autosome_chrX.ase_00_80  # at least one allele count
+
+gzip all_no_bias_sam_order4sncRNAseq_header.ase_*0_80 all_no_bias_sam_order4sncRNAseq_header.ase_20_80_check &
+
+
+
