@@ -1,0 +1,248 @@
+Sample_directory	Sample	Brain.ID	Region	fastq	clip_fastq	all_mapped_read	uniquely_mapped_read	Diagnosis	Age..yrs.	Sex	Ethnicity	Brain.bank	RIN	PMI..hrs.	TotalOrSelectedRNA	Lib_prep_batch	Seizures	Chromosome.15q.duplication	Psychiatric.medications	Medications_notes	Primary.cause.of.death	Secondary.cause.of.death	SexAndSNPanno	metData
+Sample_A012_12-BA41-42-22_A012_12_ba41-42-22_3rd	A012_12_ba41-42-22_3rd	A012_12	ba41/42/22	4994715	4448218	9000007	1800641	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_A012_12-BA9_A012_12_ba9_3rd	A012_12_ba9_3rd	A012_12	ba9	4250364	3956404	8647216	1349021	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_A206_89-CB_A206_89_vermis_3rd	A206_89_vermis_3rd	A206_89	vermis	4238134	3762482	7492008	1357969	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_A246_93-CB_A246_93_vermis_3rd	A246_93_vermis_3rd	A246_93	vermis	4661881	4325902	7659652	2027921	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_A247_92-CB_A247_92_vermis_3rd	A247_92_vermis_3rd	A247_92	vermis	3747990	3311200	6426684	1200811	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_A268_93-CB_A268_93_vermis_3rd	A268_93_vermis_3rd	A268_93	vermis	4527445	4121380	7310036	2029900	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_A358_08-BA41-42-22_A358_08_ba41-42-22_3rd	A358_08_ba41-42-22_3rd	A358_08	ba41/42/22	5608103	4940928	10830377	1559469	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_A358_08-BA9_A358_08_ba9_3rd	A358_08_ba9_3rd	A358_08	ba9	5047739	4294755	8579039	1611490	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_AN00142_ba41-42-22_56	AN00142_ba41-42-22_56	AN00142	ba41/42/22	4602468	1257106	1620778	400209	CTL	44	M	-	Harvard-ATP	7	24.6	S	8	-	N	-	no information	-	-	drop	Y
+Sample_AN00142-BA9_AN00142_ba9_3rd	AN00142_ba9_3rd	AN00142	ba9	4269027	3902864	6885812	1782933	CTL	44	M	-	Harvard-ATP	7	24.6	S	8	-	N	-	no information	-	-	drop	N
+Sample_AN00142_vermis_57	AN00142_vermis_57	AN00142	vermis	5777136	3900254	6619603	1717979	CTL	44	M	-	Harvard-ATP	7	24.6	S	8	-	N	-	no information	-	-	drop	N
+Sample_AN00493_ba41-42-22_105	AN00493_ba41-42-22_105	AN00493	ba41/42/22	5344730	4231718	6949135	1891381	ASD	27	M	English-White	Harvard-ATP	7.3	8.3	S	16	N	N	N	Synthroid	drowning	respiratory arrest	keep	Y
+Sample_AN00493_ba9_104	AN00493_ba9_104	AN00493	ba9	4805215	3108371	4712603	1685699	ASD	27	M	English-White	Harvard-ATP	7.3	8.3	S	16	N	N	N	Synthroid	drowning	respiratory arrest	keep	N
+Sample_AN00493_vermis_105x	AN00493_vermis_105x	AN00493	vermis	4376657	3066098	5203770	1339485	ASD	27	M	English-White	Harvard-ATP	7.3	8.3	S	16	N	N	N	Synthroid	drowning	respiratory arrest	keep	N
+Sample_AN00544_ba9_16	AN00544_ba9_16	AN00544	ba9	4694426	3737582	5938121	1842487	CTL	17	M	-	Harvard-ATP	7.8	28.9	S	6	-	N	-	no information	-	-	keep	Y
+Sample_AN00764_ba41-42-22_62	AN00764_ba41-42-22_62	AN00764	ba41/42/22	5578961	3905193	6443438	1681667	ASD	20	M	English-White	Harvard-ATP	2.5	23.7	S	11	N	N	N	minocin, benzamycin	accident	auto trauma	keep	Y
+Sample_AN00764_ba9_61	AN00764_ba9_61	AN00764	ba9	4541141	3441534	5200427	1608740	ASD	20	M	English-White	Harvard-ATP	2.5	23.7	S	11	N	N	N	minocin, benzamycin	accident	auto trauma	keep	N
+Sample_AN01093_ba41-42-22_107	AN01093_ba41-42-22_107	AN01093	ba41/42/22	4433470	4100816	7296068	1488242	ASD	56	M	English-White	Harvard-ATP	2.4	19.5	S	9	Y	N	Y	Cogentin, Haldol, Lithium, Thorazine, Xanex, Lithonate, Benadryl	anoxic encephalopathy	aspiration	keep	Y
+Sample_AN01093_ba9_106	AN01093_ba9_106	AN01093	ba9	6133945	4236193	7392991	1640143	ASD	56	M	English-White	Harvard-ATP	2.4	19.5	S	9	Y	N	Y	Cogentin, Haldol, Lithium, Thorazine, Xanex, Lithonate, Benadryl	anoxic encephalopathy	aspiration	keep	N
+Sample_AN01093_vermis_108	AN01093_vermis_108	AN01093	vermis	4562510	3356662	5907247	1429051	ASD	56	M	English-White	Harvard-ATP	2.4	19.5	S	9	Y	N	Y	Cogentin, Haldol, Lithium, Thorazine, Xanex, Lithonate, Benadryl	anoxic encephalopathy	aspiration	keep	N
+Sample_AN01125_ba9_22	AN01125_ba9_22	AN01125	ba9	5873298	2159024	3309140	881537	CTL	56	M	-	Harvard-ATP	7	24.2	S	14	-	N	-	no information	-	-	keep	Y
+Sample_AN01125_vermis_24	AN01125_vermis_24	AN01125	vermis	3697701	1626747	2715751	628853	CTL	56	M	-	Harvard-ATP	7	24.2	S	14	-	N	-	no information	-	-	keep	N
+Sample_AN01410_ba41-42-22_68	AN01410_ba41-42-22_68	AN01410	ba41/42/22	6138982	4716665	8120396	1947781	CTL	41	M	-	Harvard-ATP	7.4	27.2	S	11	-	N	-	no information	-	-	keep	Y
+Sample_AN01410_ba9_67	AN01410_ba9_67	AN01410	ba9	4404129	2932147	4461153	1197087	CTL	41	M	-	Harvard-ATP	7.4	27.2	S	11	-	N	-	no information	-	-	keep	N
+Sample_AN01410_vermis_69	AN01410_vermis_69	AN01410	vermis	4907382	3135866	5001403	1397732	CTL	41	M	-	Harvard-ATP	7.4	27.2	S	11	-	N	-	no information	-	-	keep	N
+Sample_AN01570_ba41-42-22_59	AN01570_ba41-42-22_59	AN01570	ba41/42/22	4818366	1486451	2448498	795523	ASD	18	F	English-White	Harvard-ATP	7.1	6.8	S	2	Y	N	N	Multivitamins, taurine, digestive enzymes, cod liver oil	seizure disorder	SUDEP	keep	Y
+Sample_AN01570_vermis_60	AN01570_vermis_60	AN01570	vermis	5152581	4436208	7842990	1986178	ASD	18	F	English-White	Harvard-ATP	7.1	6.8	S	2	Y	N	N	Multivitamins, taurine, digestive enzymes, cod liver oil	seizure disorder	SUDEP	keep	N
+Sample_AN01971_ba41-42-22_1st	AN01971_ba41-42-22_1st	AN01971	ba41/42/22	4988148	4115411	6869909	2321004	ASD	39	M	English-White	Harvard-ATP	2.9	31.5	S	14	N	N	N	none noted	aspiration	pneumonitis	keep	Y
+Sample_AN01971_ba9_1st	AN01971_ba9_1st	AN01971	ba9	9962164	8895789	12558211	5036324	ASD	39	M	English-White	Harvard-ATP	2.9	31.5	S	14	N	N	N	none noted	aspiration	pneumonitis	keep	N
+Sample_AN02987_ba41-42-22_1st	AN02987_ba41-42-22_1st	AN02987	ba41/42/22	5739766	4158743	7134559	1959816	ASD	15	M	-	Harvard-ATP	8.6	30.8	S	14	N	N	N	none noted	head trauma	-	keep	Y
+Sample_AN02987-BA9_AN02987_ba9_3rd	AN02987_ba9_3rd	AN02987	ba9	3615349	3498587	6247648	1984342	ASD	15	M	-	Harvard-ATP	8.6	30.8	S	14	N	N	N	none noted	head trauma	-	keep	N
+Sample_AN02987_vermis_1st	AN02987_vermis_1st	AN02987	vermis	4916374	3691350	6263482	1597094	ASD	15	M	-	Harvard-ATP	8.6	30.8	S	14	N	N	N	none noted	head trauma	-	keep	N
+Sample_AN03217_ba41-42-22_1st	AN03217_ba41-42-22_1st	AN03217	ba41/42/22	4777559	3915173	6148142	1578904	CTL	19	M	English-White	Harvard-ATP	7.1	18.6	S	6	-	N	-	no information	pneumonia	respiratory infection	keep	Y
+Sample_AN03217_ba41-42-22_92	AN03217_ba41-42-22_92	AN03217	ba41/42/22	5327215	3685573	5854801	1394228	CTL	19	M	English-White	Harvard-ATP	7.1	18.6	S	6	-	N	-	no information	pneumonia	respiratory infection	keep	N
+Sample_AN03217_ba9_2nd	AN03217_ba9_2nd	AN03217	ba9	2465596	1478529	2317287	622456	CTL	19	M	English-White	Harvard-ATP	7.1	18.6	S	6	-	N	-	no information	pneumonia	respiratory infection	keep	N
+Sample_AN03217_ba9_91	AN03217_ba9_91	AN03217	ba9	5349917	3193700	5138237	1469388	CTL	19	M	English-White	Harvard-ATP	7.1	18.6	S	6	-	N	-	no information	pneumonia	respiratory infection	keep	N
+Sample_AN03217_vermis_1st	AN03217_vermis_1st	AN03217	vermis	5745051	4246006	7052288	1782127	CTL	19	M	English-White	Harvard-ATP	7.1	18.6	S	6	-	N	-	no information	pneumonia	respiratory infection	keep	N
+Sample_AN03217_vermis_93	AN03217_vermis_93	AN03217	vermis	6597277	4429754	7550706	1809708	CTL	19	M	English-White	Harvard-ATP	7.1	18.6	S	6	-	N	-	no information	pneumonia	respiratory infection	keep	N
+Sample_AN03345_ba9_79	AN03345_ba9_79	AN03345	ba9	4964367	2721610	4058396	1076422	ASD	2	M	English-White	Harvard-ATP	6.9	4	S	8	N	N	N	none noted	drowning	swimming pool	keep	Y
+Sample_AN03632_ba41-42-22_1st	AN03632_ba41-42-22_1st	AN03632	ba41/42/22	5473623	4375916	7236946	1713912	ASD	49	F	-	Harvard-ATP	8.1	21.1	S	16	N	N	N	none noted	cancer	colorectal spread through abdomen	keep	Y
+Sample_AN03632_ba9_2nd	AN03632_ba9_2nd	AN03632	ba9	5196734	3739085	5854328	1620304	ASD	49	F	-	Harvard-ATP	8.1	21.1	S	16	N	N	N	none noted	cancer	colorectal spread through abdomen	keep	N
+Sample_AN03632_vermis_1st	AN03632_vermis_1st	AN03632	vermis	5204594	3980580	6634116	1605336	ASD	49	F	-	Harvard-ATP	8.1	21.1	S	16	N	N	N	none noted	cancer	colorectal spread through abdomen	keep	N
+Sample_AN03935_ba41-42-22_1st	AN03935_ba41-42-22_1st	AN03935	ba41/42/22	10551975	6863670	10946971	3179247	ASD	19	M	English-White	Harvard-ATP	7.9	28.1	S	4	N	Y	N	none noted	cardiopulmonary arrest	choking on food	keep	Y
+Sample_AN03935_ba9_2nd	AN03935_ba9_2nd	AN03935	ba9	5780232	4094171	6399624	2042849	ASD	19	M	English-White	Harvard-ATP	7.9	28.1	S	4	N	Y	N	none noted	cardiopulmonary arrest	choking on food	keep	N
+Sample_AN03935_vermis_1st	AN03935_vermis_1st	AN03935	vermis	4116967	3366135	5661550	1392054	ASD	19	M	English-White	Harvard-ATP	7.9	28.1	S	4	N	Y	N	none noted	cardiopulmonary arrest	choking on food	keep	N
+Sample_AN04479_ba41-42-22_11	AN04479_ba41-42-22_11	AN04479	ba41/42/22	3595741	2489046	4035849	1230909	CTL	44	M	-	Harvard-ATP	6.5	23.3	S	2	-	N	-	no information	-	-	keep	Y
+Sample_AN04479_ba41-42-22_95	AN04479_ba41-42-22_95	AN04479	ba41/42/22	5856994	4423032	7487328	2066351	CTL	44	M	-	Harvard-ATP	6.5	23.3	S	2	-	N	-	no information	-	-	keep	N
+Sample_AN04479_ba9_94	AN04479_ba9_94	AN04479	ba9	3677994	2591418	3903915	1357162	CTL	44	M	-	Harvard-ATP	6.5	23.3	S	2	-	N	-	no information	-	-	keep	N
+Sample_AN04682_ba41-42-22_1st	AN04682_ba41-42-22_1st	AN04682	ba41/42/22	12597469	8581986	13690566	3874909	ASD	15	M	-	Harvard-ATP	8.2	23.2	S	4	N	N	N	none noted	asphyxia	hanging	keep	Y
+Sample_AN04682_ba41-42-22_1st_T	AN04682_ba41-42-22_1st_T	AN04682	ba41/42/22	7595007	5286501	9212460	2343814	ASD	15	M	-	Harvard-ATP	8.2	23.2	S	4	N	N	N	none noted	asphyxia	hanging	keep	N
+Sample_AN04682_ba9_1st	AN04682_ba9_1st	AN04682	ba9	5167828	3996081	6662340	1780070	ASD	15	M	-	Harvard-ATP	8.2	23.2	S	4	N	N	N	none noted	asphyxia	hanging	keep	N
+Sample_AN04682_vermis_2nd	AN04682_vermis_2nd	AN04682	vermis	3748144	2602560	4364562	1031538	ASD	15	M	-	Harvard-ATP	8.2	23.2	S	4	N	N	N	none noted	asphyxia	hanging	keep	N
+Sample_AN05983_ba41-42-22_1st	AN05983_ba41-42-22_1st	AN05983	ba41/42/22	5203027	4089472	6653166	1793742	ASD	24	M	-	Harvard-ATP	8.7	36.4	S	15	Y	Y	N	none noted	sudden unexpected death	bronchopneumonia, seizure?	keep	Y
+Sample_AN05983-BA9_AN05983_ba9_3rd	AN05983_ba9_3rd	AN05983	ba9	4679742	4218432	7031248	2212071	ASD	24	M	-	Harvard-ATP	8.7	36.4	S	15	Y	Y	N	none noted	sudden unexpected death	bronchopneumonia, seizure?	keep	N
+Sample_AN05983_vermis_1st	AN05983_vermis_1st	AN05983	vermis	6673564	5750833	9681351	2482787	ASD	24	M	-	Harvard-ATP	8.7	36.4	S	15	Y	Y	N	none noted	sudden unexpected death	bronchopneumonia, seizure?	keep	N
+Sample_AN06133-CB_AN06133_vermis_3rd	AN06133_vermis_3rd	AN06133	vermis	6119715	5616784	10641689	1877118	ASD	81	M	Southern European White	Harvard-ATP	7.2	12.7	T	17	-	N	-	NA	cerebrovascular accident	micro vascular disease/heart disease	drop	Y
+Sample_AN06365_ba41-42-22_1st	AN06365_ba41-42-22_1st	AN06365	ba41/42/22	4104983	3483358	5524627	1431312	ASD	10	M	-	Harvard-ATP	8	17.7	S	7	Y	Y	N	none noted	epilepsy	-	keep	Y
+Sample_AN06420_ba41-42-22_53	AN06420_ba41-42-22_53	AN06420	ba41/42/22	4095432	3188714	4949165	1496469	ASD	39	M	English-White	Harvard-ATP	3.1	14	S	7	N	N	N	none noted	cardiac tamponade	dissecting ascending aorta	keep	Y
+Sample_AN06420_ba9_52	AN06420_ba9_52	AN06420	ba9	4423681	3831320	5941184	1699476	ASD	39	M	English-White	Harvard-ATP	3.1	14	S	7	N	N	N	none noted	cardiac tamponade	dissecting ascending aorta	keep	N
+Sample_AN06420_vermis_54	AN06420_vermis_54	AN06420	vermis	4245432	3489681	5849395	1362353	ASD	39	M	English-White	Harvard-ATP	3.1	14	S	7	N	N	N	none noted	cardiac tamponade	dissecting ascending aorta	keep	N
+Sample_AN06875-CB_AN06875_vermis_3rd	AN06875_vermis_3rd	AN06875	vermis	4517622	4201608	7770621	2064037	ASD	68	M	English-White	Harvard-ATP	6.9	29	T	17	-	N	-	NA	heart attack	sepsis	drop	Y
+Sample_AN07176_ba41-42-22_14	AN07176_ba41-42-22_14	AN07176	ba41/42/22	5667846	3734099	6297271	1762323	CTL	21	M	-	Harvard-ATP	6.3	29.9	S	10	-	N	-	no information	accident	motor vehicle	keep	N
+Sample_AN07176_ba41-42-22_97	AN07176_ba41-42-22_97	AN07176	ba41/42/22	4718804	2136253	3999390	1012980	CTL	21	M	-	Harvard-ATP	6.3	29.9	S	10	-	N	-	no information	accident	motor vehicle	keep	Y
+Sample_AN07176_ba9_96	AN07176_ba9_96	AN07176	ba9	6135772	4523816	7549400	2355185	CTL	21	M	-	Harvard-ATP	6.3	29.9	S	10	-	N	-	no information	accident	motor vehicle	keep	N
+Sample_AN07444_ba41-42-22_1st	AN07444_ba41-42-22_1st	AN07444	ba41/42/22	5873957	4284412	7694539	2052257	CTL	17	M	-	Harvard-ATP	8.2	30.8	S	14	-	N	Y	Zoloft	asphyxia	hanging	keep	Y
+Sample_AN07444-BA9_AN07444_ba9_3rd	AN07444_ba9_3rd	AN07444	ba9	4934063	4377266	7392145	2550268	CTL	17	M	-	Harvard-ATP	8.2	30.8	S	14	-	N	Y	Zoloft	asphyxia	hanging	keep	N
+Sample_AN07444_vermis_2nd	AN07444_vermis_2nd	AN07444	vermis	5575648	4356466	7606102	1857071	CTL	17	M	-	Harvard-ATP	8.2	30.8	S	14	-	N	Y	Zoloft	asphyxia	hanging	keep	N
+Sample_AN08043_ba41-42-22_1st	AN08043_ba41-42-22_1st	AN08043	ba41/42/22	5454919	4104255	6791357	2029478	ASD	52	F	-	Harvard-ATP	7.8	39.2	S	16	N	N	N	none noted	-	-	keep	Y
+Sample_AN08043_ba9_1st	AN08043_ba9_1st	AN08043	ba9	4993135	4188602	6811415	2053742	ASD	52	F	-	Harvard-ATP	7.8	39.2	S	16	N	N	N	none noted	-	-	keep	N
+Sample_AN08043_vermis_1st	AN08043_vermis_1st	AN08043	vermis	6432279	5595570	9623341	2297813	ASD	52	F	-	Harvard-ATP	7.8	39.2	S	16	N	N	N	none noted	-	-	keep	N
+Sample_AN08161_ba41-42-22_1st	AN08161_ba41-42-22_1st	AN08161	ba41/42/22	4901760	3719726	6178630	1922184	CTL	36	F	-	Harvard-ATP	8.1	23.8	S	13	-	N	-	NA	multisystem failure	-	keep	N
+Sample_AN08161_ba9_1st	AN08161_ba9_1st	AN08161	ba9	5185837	4018268	6755107	1943127	CTL	36	F	-	Harvard-ATP	8.1	23.8	S	13	-	N	-	NA	multisystem failure	-	keep	N
+Sample_AN08161_vermis_2nd	AN08161_vermis_2nd	AN08161	vermis	3890702	3188239	5444693	1361115	CTL	36	F	-	Harvard-ATP	8.1	23.8	S	13	-	N	-	NA	multisystem failure	-	keep	N
+Sample_AN08166_ba41-42-22_86	AN08166_ba41-42-22_86	AN08166	ba41/42/22	4964816	4425128	7175227	2316660	ASD	28	M	-	Harvard-ATP	6.4	43.3	S	13	Y	N	Y	Geodon, Regretol, Allegra	seizure suspected	-	keep	N
+Sample_AN08166_ba9_85	AN08166_ba9_85	AN08166	ba9	6554963	2630488	4218615	1350221	ASD	28	M	-	Harvard-ATP	6.4	43.3	S	13	Y	N	Y	Geodon, Regretol, Allegra	seizure suspected	-	keep	N
+Sample_AN08677_ba41-42-22_1st	AN08677_ba41-42-22_1st	AN08677	ba41/42/22	4082377	3251207	5185207	1596409	CTL	38	M	-	Harvard-ATP	8	25.5	S	6	-	N	-	no information	-	-	keep	Y
+Sample_AN08677_vermis_2nd	AN08677_vermis_2nd	AN08677	vermis	6315363	4978409	8791127	2182460	CTL	38	M	-	Harvard-ATP	8	25.5	S	6	-	N	-	no information	-	-	keep	N
+Sample_AN08792_ba41-42-22_102	AN08792_ba41-42-22_102	AN08792	ba41/42/22	4611224	2833311	4698310	1391483	ASD	30	M	English-White	Harvard-ATP	5.1	20.3	S	2	Y	N	Y	Dilantin, depakote, tranxene, cisapride, folic acid, propulsid, priosec, reglan, mysoline, phenobarbital, clorazepate	gastrointestinal bleeding	CP; seizure disorder	keep	Y
+Sample_AN08792_ba9_101	AN08792_ba9_101	AN08792	ba9	11237322	5519769	9003085	2335836	ASD	30	M	English-White	Harvard-ATP	5.1	20.3	S	2	Y	N	Y	Dilantin, depakote, tranxene, cisapride, folic acid, propulsid, priosec, reglan, mysoline, phenobarbital, clorazepate	gastrointestinal bleeding	CP; seizure disorder	keep	N
+Sample_AN08792_vermis_103	AN08792_vermis_103	AN08792	vermis	4482863	3359135	6035328	1240240	ASD	30	M	English-White	Harvard-ATP	5.1	20.3	S	2	Y	N	Y	Dilantin, depakote, tranxene, cisapride, folic acid, propulsid, priosec, reglan, mysoline, phenobarbital, clorazepate	gastrointestinal bleeding	CP; seizure disorder	keep	N
+Sample_AN08873_ba9_76	AN08873_ba9_76	AN08873	ba9	4436704	2792614	4169834	1475894	ASD	5	M	English-White	Harvard-ATP	3.6	25.5	S	13	Y	N	Y	Prozac	drowning	asphyxia	drop	Y
+Sample_AN08873_vermis_78	AN08873_vermis_78	AN08873	vermis	5072155	3145820	5440210	1239225	ASD	5	M	English-White	Harvard-ATP	3.6	25.5	S	13	Y	N	Y	Prozac	drowning	asphyxia	drop	N
+Sample_AN09402-BA9_AN09402_ba9_3rd	AN09402_ba9_3rd	AN09402	ba9	5047924	4697669	8744245	1812561	ASD	11	M	English-White	Harvard-ATP	8	10.5	S	4	Y	Y	Y	Keppra, depakene, phenobarbitol	seizure disorder	chromosome 15q duplication	keep	N
+Sample_AN09402_vermis_1st	AN09402_vermis_1st	AN09402	vermis	10865848	8228917	14627359	2727861	ASD	11	M	English-White	Harvard-ATP	8	10.5	S	4	Y	Y	Y	Keppra, depakene, phenobarbitol	seizure disorder	chromosome 15q duplication	keep	Y
+Sample_AN09402_vermis_1st_T	AN09402_vermis_1st_T	AN09402	vermis	9673858	8307044	15505583	3021338	ASD	11	M	English-White	Harvard-ATP	8	10.5	S	4	Y	Y	Y	Keppra, depakene, phenobarbitol	seizure disorder	chromosome 15q duplication	keep	N
+Sample_AN09714_ba41-42-22_1st	AN09714_ba41-42-22_1st	AN09714	ba41/42/22	5591493	4684979	7601116	1794752	ASD	60	M	Northern European White	Harvard-ATP	7.2	26.5	S	15	Y	N	Y	Dilantin, phenobarbital, rantex, carbamazepine, prilosec, docusate	pancreatic cancer	-	keep	Y
+Sample_AN09714_ba9_1st	AN09714_ba9_1st	AN09714	ba9	5251814	4180669	6367683	2009981	ASD	60	M	Northern European White	Harvard-ATP	7.2	26.5	S	15	Y	N	Y	Dilantin, phenobarbital, rantex, carbamazepine, prilosec, docusate	pancreatic cancer	-	keep	N
+Sample_AN09714_vermis_1st	AN09714_vermis_1st	AN09714	vermis	5906506	5106645	8669711	2035113	ASD	60	M	Northern European White	Harvard-ATP	7.2	26.5	S	15	Y	N	Y	Dilantin, phenobarbital, rantex, carbamazepine, prilosec, docusate	pancreatic cancer	-	keep	N
+Sample_AN09730_ba9_118	AN09730_ba9_118	AN09730	ba9	5375748	3069766	4950415	1537035	ASD	22	M	English-White	Harvard-ATP	3.2	25	S	10	Y	N	Y	Abilify, Lamictal, Zonegran, flax seed oil, fish oil, multivitamins	aspiration	seizure	keep	Y
+Sample_AN09730_vermis_120	AN09730_vermis_120	AN09730	vermis	4550456	3862720	6733313	1741149	ASD	22	M	English-White	Harvard-ATP	3.2	25	S	10	Y	N	Y	Abilify, Lamictal, Zonegran, flax seed oil, fish oil, multivitamins	aspiration	seizure	keep	N
+Sample_AN10028_ba9_115	AN10028_ba9_115	AN10028	ba9	5643911	3291648	5412189	1478537	CTL	36	M	-	Harvard-ATP	6.2	21.5	S	14	-	N	-	no information	-	-	keep	Y
+Sample_AN10028_vermis_117	AN10028_vermis_117	AN10028	vermis	4777366	4311246	7597443	1841218	CTL	36	M	-	Harvard-ATP	6.2	21.5	S	14	-	N	-	no information	-	-	keep	N
+Sample_AN10679_ba41-42-22_2nd	AN10679_ba41-42-22_2nd	AN10679	ba41/42/22	6425186	3617622	5705315	2080841	CTL	41	F	-	Harvard-ATP	8.4	14	S	16	-	N	-	NA	-	-	keep	Y
+Sample_AN10679_ba9_1st	AN10679_ba9_1st	AN10679	ba9	4697541	4089041	6371015	1968686	CTL	41	F	-	Harvard-ATP	8.4	14	S	16	-	N	-	NA	-	-	keep	N
+Sample_AN10679_vermis_2nd	AN10679_vermis_2nd	AN10679	vermis	5180122	4108788	7030199	1888874	CTL	41	F	-	Harvard-ATP	8.4	14	S	16	-	N	-	NA	-	-	keep	N
+Sample_AN10723_ba41-42-22_1st	AN10723_ba41-42-22_1st	AN10723	ba41/42/22	5854370	4466226	7608188	2098907	CTL	60	M	-	Harvard-ATP	8.7	24.2	S	16	-	N	-	no information	heart attack	-	keep	Y
+Sample_AN10723_ba9_1st	AN10723_ba9_1st	AN10723	ba9	11676833	7618151	12519772	3575105	CTL	60	M	-	Harvard-ATP	8.7	24.2	S	16	-	N	-	no information	heart attack	-	keep	N
+Sample_AN10723_ba9_1st_T	AN10723_ba9_1st_T	AN10723	ba9	7865995	5763695	10217032	2752785	CTL	60	M	-	Harvard-ATP	8.7	24.2	S	16	-	N	-	no information	heart attack	-	keep	N
+Sample_AN10723_vermis_2nd	AN10723_vermis_2nd	AN10723	vermis	4977052	4048268	6799372	1878518	CTL	60	M	-	Harvard-ATP	8.7	24.2	S	16	-	N	-	no information	heart attack	-	keep	N
+Sample_AN10833_ba41-42-22_47	AN10833_ba41-42-22_47	AN10833	ba41/42/22	3294504	1529636	2420419	747791	CTL	22	M	-	Harvard-ATP	1.8	21.5	S	13	-	N	-	no information	-	-	keep	Y
+Sample_AN10833_vermis_48	AN10833_vermis_48	AN10833	vermis	4907584	3964819	6968409	1824923	CTL	22	M	-	Harvard-ATP	1.8	21.5	S	13	-	N	-	no information	-	-	keep	N
+Sample_AN11864-BA41-42-22_AN11864_ba41-42-22_3rd	AN11864_ba41-42-22_3rd	AN11864	ba41/42/22	4921994	4497597	8137180	2026300	CTL	57	M	-	Harvard-ATP	5.4	22.3	T	17	-	N	-	no information	-	-	keep	Y
+Sample_AN11864-BA9_AN11864_ba9_3rd	AN11864_ba9_3rd	AN11864	ba9	4889315	4466136	7890198	1959079	CTL	57	M	-	Harvard-ATP	5.4	22.3	T	17	-	N	-	no information	-	-	keep	N
+Sample_AN11864-CB_AN11864_vermis_3rd	AN11864_vermis_3rd	AN11864	vermis	5505312	5180501	9492989	2315989	CTL	57	M	-	Harvard-ATP	5.4	22.3	T	17	-	N	-	no information	-	-	keep	N
+Sample_AN11931_ba41-42-22_1st	AN11931_ba41-42-22_1st	AN11931	ba41/42/22	4499842	2644157	4315926	1120982	ASD	39	F	-	Harvard-ATP	8.5	32.8	S	10	Y	Y	N	none noted	epilepsy	complications due to pneumonia	keep	Y
+Sample_AN11931-BA9_AN11931_ba9_3rd	AN11931_ba9_3rd	AN11931	ba9	5600426	5296910	9442572	1851593	ASD	39	F	-	Harvard-ATP	8.5	32.8	S	10	Y	Y	N	none noted	epilepsy	complications due to pneumonia	keep	N
+Sample_AN11989_ba41-42-22_110	AN11989_ba41-42-22_110	AN11989	ba41/42/22	4588824	2965648	4511799	1355218	ASD	30	M	Northern European White	Harvard-ATP	2.9	16.1	S	12	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	keep	Y
+Sample_AN11989_ba41-42-22_41	AN11989_ba41-42-22_41	AN11989	ba41/42/22	5156176	3777147	5939044	1770296	ASD	30	M	Northern European White	Harvard-ATP	2.9	16.1	S	12	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	keep	N
+Sample_AN11989_ba9_109	AN11989_ba9_109	AN11989	ba9	3056801	2300158	3515273	925623	ASD	30	M	Northern European White	Harvard-ATP	2.9	16.1	S	12	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	keep	N
+Sample_AN11989_ba9_40	AN11989_ba9_40	AN11989	ba9	5494674	4453124	7743155	1818045	ASD	30	M	Northern European White	Harvard-ATP	2.9	16.1	S	12	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	keep	N
+Sample_AN11989_vermis_111	AN11989_vermis_111	AN11989	vermis	5205781	4494483	7502284	2250938	ASD	30	M	Northern European White	Harvard-ATP	2.9	16.1	S	12	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	keep	N
+Sample_AN11989_vermis_42	AN11989_vermis_42	AN11989	vermis	4474704	4059349	6823764	1970086	ASD	30	M	Northern European White	Harvard-ATP	2.9	16.1	S	12	N	N	N	none noted	congestive heart failure	fourth ventricle and cisterna magna dermoid tumor	keep	N
+Sample_AN12137_ba41-42-22_20	AN12137_ba41-42-22_20	AN12137	ba41/42/22	5328211	3412379	5399325	1424243	CTL	31	M	-	Harvard-ATP	6.4	32.9	S	15	-	N	-	no information	asphyxia	-	keep	Y
+Sample_AN12137-BA9_AN12137_ba9_3rd	AN12137_ba9_3rd	AN12137	ba9	4482186	3951570	6490574	2082614	CTL	31	M	-	Harvard-ATP	6.4	32.9	S	15	-	N	-	no information	asphyxia	-	keep	N
+Sample_AN12137_vermis_21	AN12137_vermis_21	AN12137	vermis	6192366	3411414	5551994	1331060	CTL	31	M	-	Harvard-ATP	6.4	32.9	S	15	-	N	-	no information	asphyxia	-	keep	N
+Sample_AN12240_ba9_7	AN12240_ba9_7	AN12240	ba9	3707359	2093853	3278802	911619	CTL	51	M	English-White	Harvard-ATP	7	4.8	S	2	-	N	-	no information	heart attack	-	keep	Y
+Sample_AN12240_vermis_9	AN12240_vermis_9	AN12240	vermis	3546886	2557940	4390039	1135382	CTL	51	M	English-White	Harvard-ATP	7	4.8	S	2	-	N	-	no information	heart attack	-	keep	N
+Sample_AN12457_ba41-42-22_35	AN12457_ba41-42-22_35	AN12457	ba41/42/22	4440686	2498242	3841020	1133026	ASD	29	F	English-White	Harvard-ATP	6	17.8	S	16	Y	N	Y	Luvox from 2000-2005 - 5 years of life	seizure disorder	-	keep	Y
+Sample_AN12457_ba9_34	AN12457_ba9_34	AN12457	ba9	5555050	3735785	5889241	1709361	ASD	29	F	English-White	Harvard-ATP	6	17.8	S	16	Y	N	Y	Luvox from 2000-2005 - 5 years of life	seizure disorder	-	keep	N
+Sample_AN12457_vermis_36	AN12457_vermis_36	AN12457	vermis	5831964	4555011	7762998	1859463	ASD	29	F	English-White	Harvard-ATP	6	17.8	S	16	Y	N	Y	Luvox from 2000-2005 - 5 years of life	seizure disorder	-	keep	N
+Sample_AN13295_ba41-42-22_89	AN13295_ba41-42-22_89	AN13295	ba41/42/22	4944435	3680027	5894920	1765521	CTL	56	M	-	Harvard-ATP	6.3	22.1	S	13	-	N	-	no information	-	-	keep	Y
+Sample_AN13295_ba9_88	AN13295_ba9_88	AN13295	ba9	4593452	4223533	6626214	2131980	CTL	56	M	-	Harvard-ATP	6.3	22.1	S	13	-	N	-	no information	-	-	keep	N
+Sample_AN13295_vermis_90	AN13295_vermis_90	AN13295	vermis	4596022	3714673	5914206	1660976	CTL	56	M	-	Harvard-ATP	6.3	22.1	S	13	-	N	-	no information	-	-	keep	N
+Sample_AN13872_ba41-42-22_50	AN13872_ba41-42-22_50	AN13872	ba41/42/22	5812098	4051562	6968010	2063953	ASD	5	F	Asian	Harvard-ATP	6.9	32.7	S	14	N	N	N	none noted	drowning	-	keep	Y
+Sample_AN13872_ba9_49	AN13872_ba9_49	AN13872	ba9	4094713	3780772	6112012	1904263	ASD	5	F	Asian	Harvard-ATP	6.9	32.7	S	14	N	N	N	none noted	drowning	-	keep	N
+Sample_AN13872_vermis_51	AN13872_vermis_51	AN13872	vermis	3252126	2752101	4767683	1105886	ASD	5	F	Asian	Harvard-ATP	6.9	32.7	S	14	N	N	N	none noted	drowning	-	keep	N
+Sample_AN14757_ba41-42-22_1st	AN14757_ba41-42-22_1st	AN14757	ba41/42/22	6140419	5239553	8375121	2678667	CTL	24	M	-	Harvard-ATP	3	21.3	S	9	-	N	-	no information	heart attack	-	keep	N
+Sample_AN14757_ba41-42-22_38	AN14757_ba41-42-22_38	AN14757	ba41/42/22	4602206	4032837	6393316	1745904	CTL	24	M	-	Harvard-ATP	3	21.3	S	9	-	N	-	no information	heart attack	-	keep	Y
+Sample_AN14757_ba9_2nd	AN14757_ba9_2nd	AN14757	ba9	9903500	8216944	11204696	3283485	CTL	24	M	-	Harvard-ATP	3	21.3	S	9	-	N	-	no information	heart attack	-	keep	N
+Sample_AN14757_vermis_2nd	AN14757_vermis_2nd	AN14757	vermis	5960589	4979629	8553154	2103000	CTL	24	M	-	Harvard-ATP	3	21.3	S	9	-	N	-	no information	heart attack	-	keep	N
+Sample_AN14757_vermis_39	AN14757_vermis_39	AN14757	vermis	2538732	1861469	3191397	848760	CTL	24	M	-	Harvard-ATP	3	21.3	S	9	-	N	-	no information	heart attack	-	keep	N
+Sample_AN14762_ba41-42-22_1st	AN14762_ba41-42-22_1st	AN14762	ba41/42/22	4429255	3355812	5260585	1485498	ASD	9	M	-	Harvard-ATP	8.6	13.6	S	6	Y	Y	Y	Keppra, L-DOPA, L-carnitine	cardiac arrest	seizures	keep	Y
+Sample_AN14762_ba9_1st	AN14762_ba9_1st	AN14762	ba9	3355668	2463225	3931366	1304872	ASD	9	M	-	Harvard-ATP	8.6	13.6	S	6	Y	Y	Y	Keppra, L-DOPA, L-carnitine	cardiac arrest	seizures	keep	N
+Sample_AN14762_vermis_1st	AN14762_vermis_1st	AN14762	vermis	4146061	3449771	5937910	1418673	ASD	9	M	-	Harvard-ATP	8.6	13.6	S	6	Y	Y	Y	Keppra, L-DOPA, L-carnitine	cardiac arrest	seizures	keep	N
+Sample_AN14829_ba41-42-22_1st	AN14829_ba41-42-22_1st	AN14829	ba41/42/22	4265287	2925905	4827995	1409066	ASD	26	F	-	Harvard-ATP	6.2	28.7	S	3	Y	Y	Y	Tegretol	asphyxia	seizure suspected; chromosome 15q duplication	keep	Y
+Sample_AN14829_ba9_1st	AN14829_ba9_1st	AN14829	ba9	5779053	5323561	8806179	2484319	ASD	26	F	-	Harvard-ATP	6.2	28.7	S	3	Y	Y	Y	Tegretol	asphyxia	seizure suspected; chromosome 15q duplication	keep	N
+Sample_AN14829_vermis_1st	AN14829_vermis_1st	AN14829	vermis	4942519	3250973	5620055	1335702	ASD	26	F	-	Harvard-ATP	6.2	28.7	S	3	Y	Y	Y	Tegretol	asphyxia	seizure suspected; chromosome 15q duplication	keep	N
+Sample_AN15088-BA41-42-22_AN15088_ba41-42-22_3rd	AN15088_ba41-42-22_3rd	AN15088	ba41/42/22	5059733	4614831	7952416	2226389	CTL	52	F	-	Harvard-ATP	7.7	17.9	S	1	-	N	-	NA	heart attack	-	keep	N
+Sample_AN15088_ba9_1st	AN15088_ba9_1st	AN15088	ba9	1566050	1480131	2186596	804532	CTL	52	F	-	Harvard-ATP	7.7	17.9	S	1	-	N	-	NA	heart attack	-	keep	Y
+Sample_AN15566_ba9_28	AN15566_ba9_28	AN15566	ba9	4023016	3373783	5163656	1547258	CTL	32	F	-	Harvard-ATP	7.5	28.9	S	9	-	N	-	NA	-	-	keep	Y
+Sample_AN15566_vermis_30	AN15566_vermis_30	AN15566	vermis	5001325	4147315	6988289	1735564	CTL	32	F	-	Harvard-ATP	7.5	28.9	S	9	-	N	-	NA	-	-	keep	N
+Sample_AN16115_ba9_70	AN16115_ba9_70	AN16115	ba9	4882483	4410672	7266765	2420762	ASD	11	F	Northern European White	Harvard-ATP	9.1	12.9	S	13	Y	N	Y	Tegretol, Dilantin, Topomax, Klonopin, Lamictal, Dexadrine, Adderall	drowning	seizures	keep	Y
+Sample_AN16641_ba41-42-22_74	AN16641_ba41-42-22_74	AN16641	ba41/42/22	4978696	3566805	6025547	1586996	ASD	9	M	English-White	Harvard-ATP	4.7	27	S	13	Y	N	Y	Tegretol, clonidine, dilantin, lamictal, ritalin, depakote	seizure disorder	-	keep	Y
+Sample_AN16641_vermis_75	AN16641_vermis_75	AN16641	vermis	14766218	7063083	12215254	2811385	ASD	9	M	English-White	Harvard-ATP	4.7	27	S	13	Y	N	Y	Tegretol, clonidine, dilantin, lamictal, ritalin, depakote	seizure disorder	-	keep	N
+Sample_AN17138_ba41-42-22_44	AN17138_ba41-42-22_44	AN17138	ba41/42/22	5628003	5244205	9190429	2240573	ASD	16	M	Asian	Harvard-ATP	7.2	-	S	9	Y	Y	Y	Topamax, buspirone (for one year), allegra	seizure disorder	-	keep	Y
+Sample_AN17138_ba9_43	AN17138_ba9_43	AN17138	ba9	5823486	5116321	9303819	2281783	ASD	16	M	Asian	Harvard-ATP	7.2	-	S	9	Y	Y	Y	Topamax, buspirone (for one year), allegra	seizure disorder	-	keep	N
+Sample_AN17138_vermis_45	AN17138_vermis_45	AN17138	vermis	4432453	4194443	7475157	1569936	ASD	16	M	Asian	Harvard-ATP	7.2	-	S	9	Y	Y	Y	Topamax, buspirone (for one year), allegra	seizure disorder	-	keep	N
+Sample_AN17254_ba9_98	AN17254_ba9_98	AN17254	ba9	4371398	1974786	2916869	936713	ASD	51	M	English-White	Harvard-ATP	7.2	22.2	S	1	Y	N	N	none noted	heart attack	-	keep	Y
+Sample_AN17254_vermis_100	AN17254_vermis_100	AN17254	vermis	6438715	5568976	9671002	2428162	ASD	51	M	English-White	Harvard-ATP	7.2	22.2	S	1	Y	N	N	none noted	heart attack	-	keep	N
+Sample_AN17425_ba41-42-22_1st	AN17425_ba41-42-22_1st	AN17425	ba41/42/22	5302821	3901708	6188600	1835079	CTL	16	M	-	Harvard-ATP	5.6	26.2	S	11	-	N	-	no information	heart attack	heart disease	keep	N
+Sample_AN17425_ba41-42-22_32	AN17425_ba41-42-22_32	AN17425	ba41/42/22	5337302	3384893	5489180	1443304	CTL	16	M	-	Harvard-ATP	5.6	26.2	S	11	-	N	-	no information	heart attack	heart disease	keep	Y
+Sample_AN17425_ba9_1st	AN17425_ba9_1st	AN17425	ba9	4395243	3591518	5445889	1639923	CTL	16	M	-	Harvard-ATP	5.6	26.2	S	11	-	N	-	no information	heart attack	heart disease	keep	N
+Sample_AN17425_ba9_31	AN17425_ba9_31	AN17425	ba9	4105917	2661748	4181535	1104312	CTL	16	M	-	Harvard-ATP	5.6	26.2	S	11	-	N	-	no information	heart attack	heart disease	keep	N
+Sample_AN17425_vermis_1st	AN17425_vermis_1st	AN17425	vermis	5028900	4089872	6535785	2078425	CTL	16	M	-	Harvard-ATP	5.6	26.2	S	11	-	N	-	no information	heart attack	heart disease	keep	N
+Sample_AN17425_vermis_33	AN17425_vermis_33	AN17425	vermis	5205516	4645808	7669252	2086422	CTL	16	M	-	Harvard-ATP	5.6	26.2	S	11	-	N	-	no information	heart attack	heart disease	keep	N
+Sample_AN17515-BA41-42-22_AN17515_ba41-42-22_3rd	AN17515_ba41-42-22_3rd	AN17515	ba41/42/22	4880080	4546854	7976520	1943774	ASD	54	M	English-White	Harvard-ATP	8.1	28.3	S	9	N	N	N	none noted	cancer	-	keep	N
+Sample_AN17515_ba9_1st	AN17515_ba9_1st	AN17515	ba9	4608522	4259720	6897299	1775822	ASD	54	M	English-White	Harvard-ATP	8.1	28.3	S	9	N	N	N	none noted	cancer	-	keep	Y
+Sample_AN17515_vermis_1st	AN17515_vermis_1st	AN17515	vermis	5078829	3867493	6601145	1696970	ASD	54	M	English-White	Harvard-ATP	8.1	28.3	S	9	N	N	N	none noted	cancer	-	keep	N
+Sample_AN17678_vermis_1st	AN17678_vermis_1st	AN17678	vermis	4688385	3954643	6799935	1459099	ASD	11	M	English-White	Harvard-ATP	8.4	-	S	12	N	N	N	none noted	sudden unexpected death	autism	keep	Y
+Sample_AN17777_ba41-42-22_83	AN17777_ba41-42-22_83	AN17777	ba41/42/22	5169481	3073413	5089789	1429928	NCTL	49	F	-	Harvard-ATP	6.6	16.3	S	11	N	N	Y	Effexor, Neurontin, risperidol, propanolol, synthroid, metformin, coumadin, prevacid, erythromycin	cardiopulmonary arrest	-	keep	Y
+Sample_AN17777_ba9_82	AN17777_ba9_82	AN17777	ba9	5545701	3221237	5225891	1405031	NCTL	49	F	-	Harvard-ATP	6.6	16.3	S	11	N	N	Y	Effexor, Neurontin, risperidol, propanolol, synthroid, metformin, coumadin, prevacid, erythromycin	cardiopulmonary arrest	-	keep	N
+Sample_AN17777_vermis_84	AN17777_vermis_84	AN17777	vermis	3238221	2748204	4860036	1250177	NCTL	49	F	-	Harvard-ATP	6.6	16.3	S	11	N	N	Y	Effexor, Neurontin, risperidol, propanolol, synthroid, metformin, coumadin, prevacid, erythromycin	cardiopulmonary arrest	-	keep	N
+Sample_AN19442-BA9_AN19442_ba9_3rd	AN19442_ba9_3rd	AN19442	ba9	4054667	3749866	6357656	2121889	CTL	50	M	-	Harvard-ATP	6.9	20.4	T	17	-	N	-	no information	-	-	keep	Y
+Sample_AN19511_ba41-42-22_113	AN19511_ba41-42-22_113	AN19511	ba41/42/22	4249648	2435123	3904397	1058765	ASD	8	M	English-White	Harvard-ATP	8.3	22.2	S	8	Y	N	N	none noted	cancer	sarcoma	keep	Y
+Sample_AN19511_ba9_112	AN19511_ba9_112	AN19511	ba9	4955854	3222910	5068868	1590064	ASD	8	M	English-White	Harvard-ATP	8.3	22.2	S	8	Y	N	N	none noted	cancer	sarcoma	keep	N
+Sample_AN19511_vermis_114	AN19511_vermis_114	AN19511	vermis	5562427	5170548	8811953	1838967	ASD	8	M	English-White	Harvard-ATP	8.3	22.2	S	8	Y	N	N	none noted	cancer	sarcoma	keep	N
+Sample_AN19760_ba9_25	AN19760_ba9_25	AN19760	ba9	4206458	3094826	4559853	1565590	CTL	28	M	-	Harvard-ATP	8	23.3	S	8	-	N	-	no information	-	-	keep	Y
+Sample_AN19760_vermis_27	AN19760_vermis_27	AN19760	vermis	4645229	3071839	5045521	1290606	CTL	28	M	-	Harvard-ATP	8	23.3	S	8	-	N	-	no information	-	-	keep	N
+Sample_NP024_10-BA41-42-22_NP024_10_ba41-42-22_3rd	NP024_10_ba41-42-22_3rd	NP024_10	ba41/42/22	4631747	4101944	7627389	1905919	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP024_10-BA9_NP024_10_ba9_3rd	NP024_10_ba9_3rd	NP024_10	ba9	4721544	4100929	8023632	1747516	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP024_10-CB_NP024_10_vermis_3rd	NP024_10_vermis_3rd	NP024_10	vermis	5074839	4705889	8598903	2227401	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP121_11-BA41-42-22_NP121_11_ba41-42-22_3rd	NP121_11_ba41-42-22_3rd	NP121_11	ba41/42/22	4104374	3457767	6060705	1802715	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP121_11-BA9_NP121_11_ba9_3rd	NP121_11_ba9_3rd	NP121_11	ba9	4403341	4191572	7303740	2453944	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP167_08-BA41-42-22_NP167_08_ba41-42-22_3rd	NP167_08_ba41-42-22_3rd	NP167_08	ba41/42/22	4446574	4175328	7247473	2491987	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP167_08-BA9_NP167_08_ba9_3rd	NP167_08_ba9_3rd	NP167_08	ba9	5190917	4988418	9134165	2693046	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP26_11-BA41-42-22_NP26_11_ba41-42-22_3rd	NP26_11_ba41-42-22_3rd	NP26_11	ba41/42/22	5483787	4874723	9061832	2105568	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP26_11-BA9_NP26_11_ba9_3rd	NP26_11_ba9_3rd	NP26_11	ba9	4933830	4652996	8539405	2235976	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP26_11-CB_NP26_11_vermis_3rd	NP26_11_vermis_3rd	NP26_11	vermis	5540159	5073400	9967529	2064010	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP27_11-CB_NP27_11_vermis_3rd	NP27_11_vermis_3rd	NP27_11	vermis	5020217	4674969	8336893	2490125	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP56_10-CB_NP56_10_vermis_3rd	NP56_10_vermis_3rd	NP56_10	vermis	4238533	3991224	7474854	1642268	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP72_11-BA41-42-22_NP72_11_ba41-42-22_3rd	NP72_11_ba41-42-22_3rd	NP72_11	ba41/42/22	8870861	8485960	15462541	4333119	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP72_11-BA9_NP72_11_ba9_3rd	NP72_11_ba9_3rd	NP72_11	ba9	4399023	4225022	8083890	1922175	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP72_11-CB_NP72_11_vermis_3rd	NP72_11_vermis_3rd	NP72_11	vermis	6144688	5597347	10741219	2135755	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP90_09-BA41-42-22_NP90_09_ba41-42-22_3rd	NP90_09_ba41-42-22_3rd	NP90_09	ba41/42/22	4699115	4272028	8741118	1346603	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP90_09-BA9_NP90_09_ba9_3rd	NP90_09_ba9_3rd	NP90_09	ba9	5078221	4558479	8187347	2409740	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_NP90_09-CB_NP90_09_vermis_3rd	NP90_09_vermis_3rd	NP90_09	vermis	4267898	4147158	7851120	2149813	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_UMB1376-BA41-42-22_UMB1376_ba41-42-22_3rd	UMB1376_ba41-42-22_3rd	UMB1376	ba41/42/22	3984277	3606989	6731903	1693928	CTL	37	M	-	NICHD-BTB	8.3	12	S	5	N	N	-	none noted	arteriosclerotic cardiovascular disease	-	keep	N
+Sample_UMB1376-BA9_UMB1376_ba9_3rd	UMB1376_ba9_3rd	UMB1376	ba9	4272370	3737183	6576017	1802550	CTL	37	M	-	NICHD-BTB	8.3	12	S	5	N	N	-	none noted	arteriosclerotic cardiovascular disease	-	keep	N
+Sample_UMB1376_vermis_2nd	UMB1376_vermis_2nd	UMB1376	vermis	12156883	7733667	13320227	2981758	CTL	37	M	-	NICHD-BTB	8.3	12	S	5	N	N	-	none noted	arteriosclerotic cardiovascular disease	-	keep	Y
+Sample_UMB1578_ba41-42-22_1st	UMB1578_ba41-42-22_1st	UMB1578	ba41/42/22	3725098	2472862	3953486	1352534	CTL	53	M	-	NICHD-BTB	8.1	17	S	2	N	N	-	Had hypertension, took pravachol	arteriosclerotic cardiovascular disease	-	keep	Y
+Sample_UMB1578_ba9_2nd	UMB1578_ba9_2nd	UMB1578	ba9	3558158	2961610	4978035	1531388	CTL	53	M	-	NICHD-BTB	8.1	17	S	2	N	N	-	Had hypertension, took pravachol	arteriosclerotic cardiovascular disease	-	keep	N
+Sample_UMB1578_vermis_1st	UMB1578_vermis_1st	UMB1578	vermis	4358657	3010121	5314028	1398364	CTL	53	M	-	NICHD-BTB	8.1	17	S	2	N	N	-	Had hypertension, took pravachol	arteriosclerotic cardiovascular disease	-	keep	N
+Sample_UMB4334_ba41-42-22_1st	UMB4334_ba41-42-22_1st	UMB4334	ba41/42/22	1898706	408602	500788	237284	ASD	11	M	Portuguese/Spanish Hispanic	NICHD-BTB	7.9	27	S	10	Y	N	Y	Keppra, lexapro	acute hemorrhagic tracheobronchitis	-	keep	N
+Sample_UMB4334_ba9_1st	UMB4334_ba9_1st	UMB4334	ba9	5120527	3201187	4905180	1635602	ASD	11	M	Portuguese/Spanish Hispanic	NICHD-BTB	7.9	27	S	10	Y	N	Y	Keppra, lexapro	acute hemorrhagic tracheobronchitis	-	keep	Y
+Sample_UMB4337-BA9_UMB4337_ba9_3rd	UMB4337_ba9_3rd	UMB4337	ba9	4709780	4174257	6915770	2211632	CTL	8	M	-	NICHD-BTB	8.6	16	S	14	N	N	N	none noted	motor vehicle accident	-	keep	N
+Sample_UMB4337_vermis_2nd	UMB4337_vermis_2nd	UMB4337	vermis	5723051	4497766	8041465	1623579	CTL	8	M	-	NICHD-BTB	8.6	16	S	14	N	N	N	none noted	motor vehicle accident	-	keep	Y
+Sample_UMB433-BA41-42-22_UMB433_ba41-42-22_3rd	UMB433_ba41-42-22_3rd	UMB433	ba41/42/22	4516201	4237677	7196689	2189257	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	N
+Sample_UMB4590_ba41-42-22_2nd	UMB4590_ba41-42-22_2nd	UMB4590	ba41/42/22	11352480	4657877	7847210	2096007	CTL	20	M	English-White	NICHD-BTB	8.3	19	S	5	N	N	-	none noted	cardiac arrest	dilated cardiomyopathy; morbid obesity	keep	Y
+Sample_UMB4590_ba9_1st	UMB4590_ba9_1st	UMB4590	ba9	5614176	2701912	4204376	1591737	CTL	20	M	English-White	NICHD-BTB	8.3	19	S	5	N	N	-	none noted	cardiac arrest	dilated cardiomyopathy; morbid obesity	keep	N
+Sample_UMB4590_vermis_2nd	UMB4590_vermis_2nd	UMB4590	vermis	4590097	3863118	6611143	1651497	CTL	20	M	English-White	NICHD-BTB	8.3	19	S	5	N	N	-	none noted	cardiac arrest	dilated cardiomyopathy; morbid obesity	keep	N
+Sample_UMB4842_ba41-42-22_2nd	UMB4842_ba41-42-22_2nd	UMB4842	ba41/42/22	7202631	4351606	7299105	1731768	CTL	47	M	-	NICHD-BTB	8.1	12	S	4	N	N	N	none noted	airway obstruction	-	keep	Y
+Sample_UMB4842_ba9_2nd	UMB4842_ba9_2nd	UMB4842	ba9	2846863	1555801	2376155	838763	CTL	47	M	-	NICHD-BTB	8.1	12	S	4	N	N	N	none noted	airway obstruction	-	keep	N
+Sample_UMB4842-CB_UMB4842_vermis_3rd	UMB4842_vermis_3rd	UMB4842	vermis	4146045	3870424	6759895	1762061	CTL	47	M	-	NICHD-BTB	8.1	12	S	4	N	N	N	none noted	airway obstruction	-	keep	N
+Sample_UMB4849_ba9_2nd	UMB4849_ba9_2nd	UMB4849	ba9	4274240	3325581	4795152	1824771	ASD	7	M	African American/Black	NICHD-BTB	7.4	20	S	8	N	N	N	none noted	drowning	-	keep	Y
+Sample_UMB4849_vermis_1st	UMB4849_vermis_1st	UMB4849	vermis	5922158	4290969	7452011	1727087	ASD	7	M	African American/Black	NICHD-BTB	7.4	20	S	8	N	N	N	none noted	drowning	-	keep	N
+Sample_UMB4999_ba41-42-22_2nd	UMB4999_ba41-42-22_2nd	UMB4999	ba41/42/22	4449826	3566924	5527722	2118592	ASD	21	M	English-White	NICHD-BTB	8.4	14	S	0	N	N	Y	Risperdal, Depakote, Naltrexone	cardiac arrhythmia	-	keep	Y
+Sample_UMB4999_ba9_2nd	UMB4999_ba9_2nd	UMB4999	ba9	4316097	3229985	5190492	1593832	ASD	21	M	English-White	NICHD-BTB	8.4	14	S	0	N	N	Y	Risperdal, Depakote, Naltrexone	cardiac arrhythmia	-	keep	N
+Sample_UMB5027_ba41-42-22_2nd	UMB5027_ba41-42-22_2nd	UMB5027	ba41/42/22	5590257	3880958	6057824	2006768	ASD	37	M	-	NICHD-BTB	8.5	26	S	16	N	N	Y	Risperdal, Luvox, Thorazine	obstruction of bowel due to adhesion	-	keep	Y
+Sample_UMB5027_ba9_1st	UMB5027_ba9_1st	UMB5027	ba9	5148131	2308962	3503672	1194089	ASD	37	M	-	NICHD-BTB	8.5	26	S	16	N	N	Y	Risperdal, Luvox, Thorazine	obstruction of bowel due to adhesion	-	keep	N
+Sample_UMB5027_vermis_2nd	UMB5027_vermis_2nd	UMB5027	vermis	4696843	3762045	6247125	1476522	ASD	37	M	-	NICHD-BTB	8.5	26	S	16	N	N	Y	Risperdal, Luvox, Thorazine	obstruction of bowel due to adhesion	-	keep	N
+Sample_UMB5079_ba9_2nd	UMB5079_ba9_2nd	UMB5079	ba9	6305316	4901290	7753399	2716907	CTL	33	M	-	NICHD-BTB	7.8	16	S	14	-	N	-	no information	drowning	alcohol intoxication	keep	Y
+Sample_UMB5079_vermis_1st	UMB5079_vermis_1st	UMB5079	vermis	2196459	1842429	3230785	810355	CTL	33	M	-	NICHD-BTB	7.8	16	S	14	-	N	-	no information	drowning	alcohol intoxication	keep	N
+Sample_UMB5115_ba41-42-22_2nd	UMB5115_ba41-42-22_2nd	UMB5115	ba41/42/22	4243526	3063856	4533585	1534479	ASD	46	M	English-White	NICHD-BTB	8.2	29	S	12	Y	N	Y	Haldol, Dilantin, Monopril, Miacalcin	complications of pseuodmyxoma peritonei	-	keep	Y
+Sample_UMB5115_ba9_2nd	UMB5115_ba9_2nd	UMB5115	ba9	4995433	4030791	6351416	1871375	ASD	46	M	English-White	NICHD-BTB	8.2	29	S	12	Y	N	Y	Haldol, Dilantin, Monopril, Miacalcin	complications of pseuodmyxoma peritonei	-	keep	N
+Sample_UMB5115_vermis_1st	UMB5115_vermis_1st	UMB5115	vermis	4695904	3445941	5457412	1511323	ASD	46	M	English-White	NICHD-BTB	8.2	29	S	12	Y	N	Y	Haldol, Dilantin, Monopril, Miacalcin	complications of pseuodmyxoma peritonei	-	keep	N
+Sample_UMB5144_vermis_2nd	UMB5144_vermis_2nd	UMB5144	vermis	5023860	3892799	7043243	1632345	ASD	7	M	-	NICHD-BTB	8.2	3	S	14	N	N	N	none noted	cancer	-	keep	Y
+Sample_UMB5163_ba41-42-22_1st	UMB5163_ba41-42-22_1st	UMB5163	ba41/42/22	7809121	3010590	4586406	1623254	CTL	15	M	-	NICHD-BTB	8.1	12	S	4	-	N	-	no records	drowning	-	keep	Y
+Sample_UMB5163_ba41-42-22_1st_T	UMB5163_ba41-42-22_1st_T	UMB5163	ba41/42/22	7131660	4945291	8978741	2313306	CTL	15	M	-	NICHD-BTB	8.1	12	S	4	-	N	-	no records	drowning	-	keep	N
+Sample_UMB5163_ba9_2nd	UMB5163_ba9_2nd	UMB5163	ba9	6103875	5014362	7752482	2975905	CTL	15	M	-	NICHD-BTB	8.1	12	S	4	-	N	-	no records	drowning	-	keep	N
+Sample_UMB5163_vermis_2nd	UMB5163_vermis_2nd	UMB5163	vermis	5110955	3600646	6001133	1632289	CTL	15	M	-	NICHD-BTB	8.1	12	S	4	-	N	-	no records	drowning	-	keep	N
+Sample_UMB5168_ba41-42-22_1st	UMB5168_ba41-42-22_1st	UMB5168	ba41/42/22	8947911	1883932	2922537	998778	CTL	16	F	-	NICHD-BTB	7	-	S	4	-	N	-	no records	cardiac arrhythmia	-	keep	Y
+Sample_UMB5168_ba9_2nd	UMB5168_ba9_2nd	UMB5168	ba9	5442079	3543745	5811148	1947180	CTL	16	F	-	NICHD-BTB	7	-	S	4	-	N	-	no records	cardiac arrhythmia	-	keep	N
+Sample_UMB5168_vermis_2nd	UMB5168_vermis_2nd	UMB5168	vermis	4739831	3825692	6829189	1696200	CTL	16	F	-	NICHD-BTB	7	-	S	4	-	N	-	no records	cardiac arrhythmia	-	keep	N
+Sample_UMB5176-BA41-42-22_UMB5176_ba41-42-22_3rd	UMB5176_ba41-42-22_3rd	UMB5176	ba41/42/22	4081254	3593084	6280129	2004531	ASD	23	M	-	NICHD-BTB	8.1	18	S	6	N	N	Y	Risperdal	sudural hemorrhage	-	keep	N
+Sample_UMB5176_vermis_2nd	UMB5176_vermis_2nd	UMB5176	vermis	4480406	4135367	7115175	1868795	ASD	23	M	-	NICHD-BTB	8.1	18	S	6	N	N	Y	Risperdal	sudural hemorrhage	-	keep	Y
+Sample_UMB5242_ba41-42-22_1st	UMB5242_ba41-42-22_1st	UMB5242	ba41/42/22	4814538	3030305	4927077	1633806	CTL	15	M	-	NICHD-BTB	8.1	9	S	14	N	N	-	noted to not have been on any medications	cardiac arrhythmia due to conduction system	-	keep	Y
+Sample_UMB5242_ba9_1st	UMB5242_ba9_1st	UMB5242	ba9	5740668	4463770	7021541	2301974	CTL	15	M	-	NICHD-BTB	8.1	9	S	14	N	N	-	noted to not have been on any medications	cardiac arrhythmia due to conduction system	-	keep	N
+Sample_UMB5242_vermis_2nd	UMB5242_vermis_2nd	UMB5242	vermis	3921805	3274022	5520972	1160868	CTL	15	M	-	NICHD-BTB	8.1	9	S	14	N	N	-	noted to not have been on any medications	cardiac arrhythmia due to conduction system	-	keep	N
+Sample_UMB5278_ba41-42-22_1st	UMB5278_ba41-42-22_1st	UMB5278	ba41/42/22	3501156	2166747	3382260	1082554	ASD	16	F	English-White	NICHD-BTB	7.8	13	S	10	Y	N	Y	Depakote, Keppra, Vitamin B6, Prozac	drowning	associated with seizure disorder	keep	Y
+Sample_UMB5278_ba9_1st	UMB5278_ba9_1st	UMB5278	ba9	5493441	4134519	6398020	2019055	ASD	16	F	English-White	NICHD-BTB	7.8	13	S	10	Y	N	Y	Depakote, Keppra, Vitamin B6, Prozac	drowning	associated with seizure disorder	keep	N
+Sample_UMB5278_vermis_1st	UMB5278_vermis_1st	UMB5278	vermis	5323311	4858853	8007184	1921209	ASD	16	F	English-White	NICHD-BTB	7.8	13	S	10	Y	N	Y	Depakote, Keppra, Vitamin B6, Prozac	drowning	associated with seizure disorder	keep	N
+Sample_UMB5297_ba9_1st	UMB5297_ba9_1st	UMB5297	ba9	5742189	4071447	6779633	2071225	ASD	33	M	English-White	NICHD-BTB	5.6	50	S	16	N	N	Y	Fluoxetine, norfluoxetine, seroquel, prozac, depakote, but only as of 3 year prior to death	asphyxia	face down position	keep	Y
+Sample_UMB5297_vermis_2nd	UMB5297_vermis_2nd	UMB5297	vermis	4599748	4160864	7281613	1640651	ASD	33	M	English-White	NICHD-BTB	5.6	50	S	16	N	N	Y	Fluoxetine, norfluoxetine, seroquel, prozac, depakote, but only as of 3 year prior to death	asphyxia	face down position	keep	N
+Sample_UMB5302_ba41-42-22_1st	UMB5302_ba41-42-22_1st	UMB5302	ba41/42/22	4814851	4043544	6753747	1804275	ASD	16	M	English-White	NICHD-BTB	3.7	20	S	6	Y	N	Y	Risperdal, Luvox, Clonidine, Insulin	diabetic ketoacidosis	-	keep	Y
+Sample_UMB5302_ba9_1st	UMB5302_ba9_1st	UMB5302	ba9	13013108	5874075	9370573	2704450	ASD	16	M	English-White	NICHD-BTB	3.7	20	S	6	Y	N	Y	Risperdal, Luvox, Clonidine, Insulin	diabetic ketoacidosis	-	keep	N
+Sample_UMB5302_vermis_1st	UMB5302_vermis_1st	UMB5302	vermis	4295346	3757346	6455122	1705752	ASD	16	M	English-White	NICHD-BTB	3.7	20	S	6	Y	N	Y	Risperdal, Luvox, Clonidine, Insulin	diabetic ketoacidosis	-	keep	N
+Sample_UMB5303_ba41-42-22_2nd	UMB5303_ba41-42-22_2nd	UMB5303	ba41/42/22	3988490	2167054	3348462	1023982	ASD	67	M	African American/Black	NICHD-BTB	8.5	16	S	2	Y	N	Y	Dilantin, Phenobarbital, Tegretol (at time of death), past included Meallaril, Kemadrin, Haldol, Serpasil, Thorazine, Chloral Hydrate, Trilafon, Navane	cardiac arrest	-	keep	Y
+Sample_UMB5303_ba9_1st	UMB5303_ba9_1st	UMB5303	ba9	5355699	3580588	5829606	1700915	ASD	67	M	African American/Black	NICHD-BTB	8.5	16	S	2	Y	N	Y	Dilantin, Phenobarbital, Tegretol (at time of death), past included Meallaril, Kemadrin, Haldol, Serpasil, Thorazine, Chloral Hydrate, Trilafon, Navane	cardiac arrest	-	keep	N
+Sample_UMB5303_vermis_1st	UMB5303_vermis_1st	UMB5303	vermis	10276213	5286090	9088042	2446531	ASD	67	M	African American/Black	NICHD-BTB	8.5	16	S	2	Y	N	Y	Dilantin, Phenobarbital, Tegretol (at time of death), past included Meallaril, Kemadrin, Haldol, Serpasil, Thorazine, Chloral Hydrate, Trilafon, Navane	cardiac arrest	-	keep	N
+Sample_UMB5308_ba41-42-22_1st	UMB5308_ba41-42-22_1st	UMB5308	ba41/42/22	5347044	4659238	7620139	2522203	ASD	4	M	-	NICHD-BTB	8.8	21	S	9	N	N	N	none noted	blunt head injury, hit by a car while walking	-	keep	Y
+Sample_UMB5308_vermis_1st	UMB5308_vermis_1st	UMB5308	vermis	4877341	3284359	5898416	1195657	ASD	4	M	-	NICHD-BTB	8.8	21	S	9	N	N	N	none noted	blunt head injury, hit by a car while walking	-	keep	N
+Sample_UMB5340_ba41-42-22_2nd	UMB5340_ba41-42-22_2nd	UMB5340	ba41/42/22	4913752	4404537	7208506	2091974	ASD	53	M	-	NICHD-BTB	8.2	-	S	13	N	N	Y	Benztropine, Sinemet, Cipro (current meds)	unresponsive in bed	Parkinson's disease likely contributed	keep	Y
+Sample_UMB5340_ba9_2nd	UMB5340_ba9_2nd	UMB5340	ba9	5389890	5082438	8494058	2469952	ASD	53	M	-	NICHD-BTB	8.2	-	S	13	N	N	Y	Benztropine, Sinemet, Cipro (current meds)	unresponsive in bed	Parkinson's disease likely contributed	keep	N
+Sample_UMB5340_vermis_1st	UMB5340_vermis_1st	UMB5340	vermis	13863069	8418149	14188219	3361604	ASD	53	M	-	NICHD-BTB	8.2	-	S	13	N	N	Y	Benztropine, Sinemet, Cipro (current meds)	unresponsive in bed	Parkinson's disease likely contributed	keep	N
+Sample_UMB5342_ba41-42-22_1st	UMB5342_ba41-42-22_1st	UMB5342	ba41/42/22	4924238	3786965	5920857	1841511	CTL	23	M	-	NICHD-BTB	7.7	14	S	15	N	N	N	No notable medical history	motorcycle accident	-	keep	Y
+Sample_UMB5342_ba9_2nd	UMB5342_ba9_2nd	UMB5342	ba9	4023396	1472746	2295938	757268	CTL	23	M	-	NICHD-BTB	7.7	14	S	15	N	N	N	No notable medical history	motorcycle accident	-	keep	N
+Sample_UMB5342_vermis_1st	UMB5342_vermis_1st	UMB5342	vermis	6631280	5296337	8997666	2467794	CTL	23	M	-	NICHD-BTB	7.7	14	S	15	N	N	N	No notable medical history	motorcycle accident	-	keep	N
